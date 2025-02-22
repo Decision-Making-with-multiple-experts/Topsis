@@ -1,0 +1,94 @@
+{
+  "problems": [
+    {
+      "problemName": "Problem 1",
+      "criteria": [
+        {
+          "criterionName": "Criterion 1 description",
+          "criterionScale": "long",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Criterion 2 description",
+          "criterionScale": "numeric",
+          "optimizationDirection": "min"
+        }
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "criteria": [
+        {
+          "criterionName": "Criterion 1",
+          "criterionScale": "numeric",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Criterion 2",
+          "criterionScale": "numeric",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Criterion 3",
+          "criterionScale": "numeric",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Criterion 4",
+          "criterionScale": "numeric",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Criterion 5",
+          "criterionScale": "base",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Criterion 6",
+          "criterionScale": "base",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Criterion 7",
+          "criterionScale": "base",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Criterion 8",
+          "criterionScale": "base",
+          "optimizationDirection": "min"
+        },
+        {
+          "criterionName": "Criterion 9",
+          "criterionScale": "base",
+          "optimizationDirection": "min"
+        },
+        {
+          "criterionName": "Criterion 10",
+          "criterionScale": "base",
+          "optimizationDirection": "min"
+        },
+        {
+          "criterionName": "Criterion 11",
+          "criterionScale": "base",
+          "optimizationDirection": "min"
+        }
+      ]
+    },
+    {
+      "problemName": "Problem 3",
+      "criteria": [
+        {
+          "criterionName": "Criterion 1 description",
+          "criterionScale": "long",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Criterion 2 description",
+          "criterionScale": "short",
+          "optimizationDirection": "max"
+        }
+      ]
+    }
+  ]
+}
