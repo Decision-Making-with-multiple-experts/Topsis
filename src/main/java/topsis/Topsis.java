@@ -10,12 +10,29 @@ import java.util.stream.Collectors;
 
 public class Topsis {
     public static void run(Problem problem, List<Rating> ratings) {
-        System.out.println("Processing problem: " + problem.getProblemName());
+        String ANSI_BLUE = "\033[34m";
+        String ANSI_GREEN = "\033[32m";
+        String ANSI_RESET = "\033[0m";
+        System.out.println(ANSI_BLUE + "\n=== Processing problem: " + problem.getProblemName() + " ===" + ANSI_RESET);
+
+        // Проверка, есть ли в проблеме критерии
+        if (problem.getCriteria() == null || problem.getCriteria().isEmpty()) {
+            System.err.println("Error: The problem is missing criteria. Unable to perform analysis.");
+            return;
+        }
 
         // Нормализация оценок
+        System.out.println(ANSI_GREEN + "\nNormalized rating" + ANSI_RESET);
         List<NormalizedRating> normalizedRatings = normalize(ratings, problem);
 
+        // Проверка на пустые рейтинги
+        if (normalizedRatings == null || normalizedRatings.isEmpty()) {
+            System.err.println("Error: Ratings list is empty. Unable to perform analysis.");
+            return;
+        }
+
         // Усреднение оценок
+        System.out.println(ANSI_GREEN + "\nAveraged ratings" + ANSI_RESET);
         Map<String, double[]> averagedRatings = groupAndAverageRatings(normalizedRatings);
 
         // Вычисление идеальной и антиидеальной точек
@@ -23,9 +40,11 @@ public class Topsis {
         Map<String, double[]> idealPoints = calculateIdealAndAntiIdealPoints(averagedRatings, isPositiveCriteria);
 
         // Вычисление евклидова расстояния между каждым усредненным рейтингом и идеальной/антиидеальной опорной точкой
+        System.out.println(ANSI_GREEN + "\nDistances to Ideal and Anti-Ideal:" + ANSI_RESET);
         Map<String, double[]> distances = calculateEuclidDistances(averagedRatings, idealPoints.get("ideal"), idealPoints.get("antiIdeal"));
 
         // Вычисление удаленности от наихудшего опорного варианта
+        System.out.println(ANSI_GREEN + "\nRanked Alternatives (Descending h(Ai)):" + ANSI_RESET);
         Map<String, Double> closeness = calculateRelativeCloseness(distances);
 
         rankAlternatives(closeness);
@@ -34,7 +53,6 @@ public class Topsis {
     private static List<NormalizedRating> normalize(List<Rating> ratings, Problem problem) {
         List<NormalizedRating> normalizedRatings = RatingNormalizer.normalizeRatings(ratings, problem);
 
-        System.out.println("Normalized rating");
         for (NormalizedRating normalizedRating : normalizedRatings) {
             System.out.println(normalizedRating.toJson());
         }
@@ -126,7 +144,6 @@ public class Topsis {
         }
 
         // Выводим усреднённые оценки
-        System.out.println("\nAveraged ratings:");
         for (Map.Entry<String, double[]> entry : averagedByExpertsRatings.entrySet()) {
             System.out.println("Alternative: " + entry.getKey() + " -> " + Arrays.toString(entry.getValue()));
         }
@@ -141,6 +158,8 @@ public class Topsis {
     }
 
     private static Map<String, double[]> calculateIdealAndAntiIdealPoints(Map<String, double[]> averagedRatings, List<Boolean> isPositiveCriteria) {
+        String ANSI_GREEN = "\033[32m";
+        String ANSI_RESET = "\033[0m";
         int criteriaCount = averagedRatings.values().iterator().next().length;
 
         // Берём первую альтернативу как начальную точку
@@ -165,8 +184,8 @@ public class Topsis {
             }
         }
 
-        System.out.println("\ny+: " + Arrays.toString(idealPoint));
-        System.out.println("y-: " + Arrays.toString(antiIdealPoint));
+        System.out.println(ANSI_GREEN + "\ny+: " + ANSI_RESET + Arrays.toString(idealPoint));
+        System.out.println(ANSI_GREEN + "y-: " + ANSI_RESET + Arrays.toString(antiIdealPoint));
 
         Map<String, double[]> idealPoints = new HashMap<>();
         idealPoints.put("ideal", idealPoint);
@@ -202,7 +221,6 @@ public class Topsis {
         }
 
         // Вывод результатов
-        System.out.println("\nDistances to Ideal and Anti-Ideal:");
         distances.forEach((alt, dists) ->
                 System.out.println(alt + " -> d_2^+: " + dists[0] + ", d_2^-: " + dists[1])
         );
@@ -232,14 +250,10 @@ public class Topsis {
         sortedAlternatives.sort((a, b) -> Double.compare(b.getValue(), a.getValue())); // По убыванию
 
         // Вывод результатов
-        System.out.println("\nRanked Alternatives (Descending h(Ai)):");
         for (int i = 0; i < sortedAlternatives.size(); i++) {
             System.out.println((i + 1) + ". " + sortedAlternatives.get(i).getKey() + " -> h(Ai): " + sortedAlternatives.get(i).getValue());
         }
 
         return sortedAlternatives;
     }
-
-
-
 }

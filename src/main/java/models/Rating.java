@@ -33,9 +33,7 @@ public class Rating {
         return alternativeName;
     }
 
-    public int getExpertId() {
-        return expertId;
-    }
+    public int getExpertId() { return expertId; }
 
     public List<String> getAlternativeRatings() {
         return alternativeRatings;
