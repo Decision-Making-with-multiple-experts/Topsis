@@ -26,103 +26,194 @@ class TopsisTest {
             assertFalse(ratings.isEmpty());
 
             // Запуск TOPSIS
-            System.out.println(problem);
-            System.out.println(ratings);
             Topsis.run(problem, ratings);
         }
     }
 
     private List<Problem> createTestProblems() {
         return Arrays.asList(
-                new Problem("Problem 1", Arrays.asList(
-                        new Criterion("Criterion 1", "numeric", "max"),
-                        new Criterion("Criterion 2", "numeric", "min"),
-                        new Criterion("Criterion 3", "short", "max")
+                new Problem("Problem test 1", Arrays.asList(
+                        new Criterion("Criterion test 1", "numeric", "max"),
+                        new Criterion("Criterion test 2", "numeric", "min"),
+                        new Criterion("Criterion test 3", "short", "max")
                 )),
-                new Problem("Problem 2", Arrays.asList(
-                        new Criterion("Criterion 1", "numeric", "min"),
-                        new Criterion("Criterion 2", "numeric", "max"),
-                        new Criterion("Criterion 3", "base", "max"),
-                        new Criterion("Criterion 4", "short", "min")
+                new Problem("Problem test 2", Arrays.asList(
+                        new Criterion("Criterion test 4", "numeric", "min"),
+                        new Criterion("Criterion test 5", "numeric", "max"),
+                        new Criterion("Criterion test 6", "base", "max"),
+                        new Criterion("Criterion test 7", "short", "min")
                 )),
-                new Problem("Problem 3", Arrays.asList(
-                        new Criterion("Criterion 1", "numeric", "max"),
-                        new Criterion("Criterion 2", "short", "min"),
-                        new Criterion("Criterion 3", "long", "max"),
-                        new Criterion("Criterion 4", "base", "min"),
-                        new Criterion("Criterion 5", "numeric", "max")
+                new Problem("Problem test 3", Arrays.asList(
+                        new Criterion("Criterion test 8", "numeric", "max"),
+                        new Criterion("Criterion test 9", "short", "min"),
+                        new Criterion("Criterion test 10", "long", "max"),
+                        new Criterion("Criterion test 11", "base", "min"),
+                        new Criterion("Criterion test 12", "numeric", "max")
                 )),
-                new Problem("Problem 4", Arrays.asList(
-                        new Criterion("Criterion 1", "long", "max"),
-                        new Criterion("Criterion 2", "numeric", "max"),
-                        new Criterion("Criterion 3", "base", "min")
+                new Problem("Problem test 4", Arrays.asList(
+                        new Criterion("Criterion test 13", "long", "max"),
+                        new Criterion("Criterion test 14", "numeric", "max"),
+                        new Criterion("Criterion test 15", "base", "min")
                 )),
-                new Problem("Problem 5", Arrays.asList(
-                        new Criterion("Criterion 1", "numeric", "min"),
-                        new Criterion("Criterion 2", "base", "max"),
-                        new Criterion("Criterion 3", "short", "min"),
-                        new Criterion("Criterion 4", "long", "max")
+                new Problem("Problem test 5", Arrays.asList(
+                        new Criterion("Criterion test 16", "numeric", "min"),
+                        new Criterion("Criterion test 17", "base", "max"),
+                        new Criterion("Criterion test 18", "short", "min"),
+                        new Criterion("Criterion test 19", "long", "max")
                 ))
         );
     }
 
     private List<Rating> generateFixedRatings(Problem problem) {
-        Map<String, List<List<String>>> fixedRatings = new HashMap<>();
-
-        // Фиксированные рейтинги для каждой проблемы
-        fixedRatings.put("Problem 1", Arrays.asList(
-                Arrays.asList("3", "5", "Н"),
-                Arrays.asList("4", "2", "В"),
-                Arrays.asList("5", "3", "Н"),
-                Arrays.asList("6", "7", "В"),
-                Arrays.asList("2", "6", "Н")
-        ));
-
-        fixedRatings.put("Problem 2", Arrays.asList(
-                Arrays.asList("7", "3", "ОН", "Н"),
-                Arrays.asList("5", "6", "В", "С"),
-                Arrays.asList("6", "5", "С", "Н"),
-                Arrays.asList("8", "7", "ОВ", "В"),
-                Arrays.asList("4", "2", "Н", "Н")
-        ));
-
-        fixedRatings.put("Problem 3", Arrays.asList(
-                Arrays.asList("9", "С", "ЭН", "ОН", "5"),
-                Arrays.asList("7", "В", "С", "В", "4"),
-                Arrays.asList("6", "Н", "ОВ", "ОН", "6"),
-                Arrays.asList("5", "С", "Н", "С", "8"),
-                Arrays.asList("4", "ОН", "ЭВ", "ОВ", "7")
-        ));
-
-        fixedRatings.put("Problem 4", Arrays.asList(
-                Arrays.asList("ЭВ", "9", "ОН"),
-                Arrays.asList("ОВ", "7", "Н"),
-                Arrays.asList("В", "5", "С"),
-                Arrays.asList("С", "3", "В"),
-                Arrays.asList("Н", "2", "ОВ")
-        ));
-
-        fixedRatings.put("Problem 5", Arrays.asList(
-                Arrays.asList("2", "ОН", "С", "ЭН"),
-                Arrays.asList("5", "Н", "ОН", "ОВ"),
-                Arrays.asList("8", "С", "В", "С"),
-                Arrays.asList("6", "ОВ", "ОН", "Н"),
-                Arrays.asList("3", "В", "С", "ЭВ")
-        ));
-
         List<Rating> ratings = new ArrayList<>();
-        List<List<String>> problemRatings = fixedRatings.get(problem.getProblemName());
+
+        // Определяем альтернативы
+        List<String> alternatives = Arrays.asList("A1", "A2", "A3", "A4", "A5");
+
+        // Количество экспертов (пусть их будет 3)
+        int numExperts = 3;
+
+        // Фиксированные рейтинги для каждой проблемы (эксперт → альтернатива → критерии)
+        Map<String, List<List<List<String>>>> fixedRatings = new HashMap<>();
+
+        // Добавляем фиксированные рейтинги для каждой проблемы
+        fixedRatings.put("Problem test 1", Arrays.asList(
+                // Эксперт 1
+                Arrays.asList(
+                        Arrays.asList("3", "5", "Н"),  // A1
+                        Arrays.asList("4", "2", "В"),  // A2
+                        Arrays.asList("5", "3", "Н"),  // A3
+                        Arrays.asList("6", "7", "В"),  // A4
+                        Arrays.asList("2", "6", "Н")   // A5
+                ),
+                // Эксперт 2
+                Arrays.asList(
+                        Arrays.asList("2", "4", "С"),
+                        Arrays.asList("5", "3", "Н"),
+                        Arrays.asList("6", "2", "В"),
+                        Arrays.asList("3", "5", "Н"),
+                        Arrays.asList("4", "6", "Н")
+                ),
+                // Эксперт 3
+                Arrays.asList(
+                        Arrays.asList("4", "3", "В"),
+                        Arrays.asList("3", "7", "Н"),
+                        Arrays.asList("5", "5", "С"),
+                        Arrays.asList("7", "6", "В"),
+                        Arrays.asList("3", "2", "В")
+                )
+        ));
+
+        fixedRatings.put("Problem test 2", Arrays.asList(
+                Arrays.asList(
+                        Arrays.asList("7", "3", "ОН", "Н"),
+                        Arrays.asList("5", "6", "В", "С"),
+                        Arrays.asList("6", "5", "С", "Н"),
+                        Arrays.asList("8", "7", "ОВ", "В"),
+                        Arrays.asList("4", "2", "Н", "Н")
+                ),
+                Arrays.asList(
+                        Arrays.asList("5", "2", "ОН", "С"),
+                        Arrays.asList("6", "4", "Н", "Н"),
+                        Arrays.asList("7", "3", "В", "С"),
+                        Arrays.asList("5", "5", "ОВ", "Н"),
+                        Arrays.asList("6", "6", "Н", "С")
+                ),
+                Arrays.asList(
+                        Arrays.asList("8", "5", "Н", "В"),
+                        Arrays.asList("4", "3", "ОН", "Н"),
+                        Arrays.asList("5", "7", "В", "С"),
+                        Arrays.asList("7", "6", "ОВ", "В"),
+                        Arrays.asList("3", "4", "Н", "В")
+                )
+        ));
+
+        fixedRatings.put("Problem test 3", Arrays.asList(
+                Arrays.asList(
+                        Arrays.asList("8", "Н", "ЭВ", "Н", "6"),
+                        Arrays.asList("7", "С", "С", "ОВ", "5"),
+                        Arrays.asList("6", "Н", "ОВ", "С", "4"),
+                        Arrays.asList("9", "В", "ЭН", "ОН", "8"),
+                        Arrays.asList("5", "Н", "Н", "ОВ", "7")
+                ),
+                Arrays.asList(
+                        Arrays.asList("7", "В", "С", "Н", "5"),
+                        Arrays.asList("6", "В", "Н", "С", "4"),
+                        Arrays.asList("8", "Н", "ЭВ", "ОН", "6"),
+                        Arrays.asList("5", "С", "ОН", "В", "7"),
+                        Arrays.asList("9", "В", "ОВ", "ОН", "8")
+                ),
+                Arrays.asList(
+                        Arrays.asList("9", "С", "ОН", "ОН", "7"),
+                        Arrays.asList("5", "Н", "ЭВ", "В", "6"),
+                        Arrays.asList("7", "В", "ОВ", "С", "5"),
+                        Arrays.asList("6", "Н", "ЭН", "ОВ", "9"),
+                        Arrays.asList("8", "Н", "С", "ОН", "6")
+                )
+        ));
+
+        fixedRatings.put("Problem test 4", Arrays.asList(
+                Arrays.asList(
+                        Arrays.asList("ЭВ", "9", "ОН"),
+                        Arrays.asList("ОВ", "7", "Н"),
+                        Arrays.asList("В", "5", "С"),
+                        Arrays.asList("С", "3", "В"),
+                        Arrays.asList("Н", "2", "ОВ")
+                ),
+                Arrays.asList(
+                        Arrays.asList("ОВ", "6", "Н"),
+                        Arrays.asList("С", "4", "В"),
+                        Arrays.asList("ОН", "8", "С"),
+                        Arrays.asList("Н", "5", "ОВ"),
+                        Arrays.asList("В", "7", "ОН")
+                ),
+                Arrays.asList(
+                        Arrays.asList("Н", "5", "С"),
+                        Arrays.asList("ОН", "6", "В"),
+                        Arrays.asList("ОВ", "7", "ОВ"),
+                        Arrays.asList("ЭВ", "4", "Н"),
+                        Arrays.asList("В", "3", "ОН")
+                )
+        ));
+
+        fixedRatings.put("Problem test 5", Arrays.asList(
+                Arrays.asList(
+                        Arrays.asList("3", "Н", "Н", "С"),
+                        Arrays.asList("5", "ОВ", "В", "ОН"),
+                        Arrays.asList("7", "В", "С", "ЭН"),
+                        Arrays.asList("8", "ОН", "В", "Н"),
+                        Arrays.asList("4", "С", "Н", "ОВ")
+                ),
+                Arrays.asList(
+                        Arrays.asList("6", "С", "Н", "ОН"),
+                        Arrays.asList("9", "В", "Н", "С"),
+                        Arrays.asList("5", "ОН", "С", "Н"),
+                        Arrays.asList("3", "Н", "В", "ОВ"),
+                        Arrays.asList("7", "В", "В", "ЭН")
+                ),
+                Arrays.asList(
+                        Arrays.asList("4", "ОВ", "Н", "В"),
+                        Arrays.asList("8", "С", "В", "ОН"),
+                        Arrays.asList("6", "ОН", "Н", "ОВ"),
+                        Arrays.asList("9", "В", "В", "С"),
+                        Arrays.asList("5", "В", "Н", "ЭН")
+                )
+        ));
+
+        // Берем фиксированные рейтинги для данной проблемы
+        List<List<List<String>>> problemRatings = fixedRatings.get(problem.getProblemName());
 
         if (problemRatings == null) {
-            throw new IllegalArgumentException("No ratings defined for " + problem.getProblemName());
+            throw new IllegalArgumentException("No fixed ratings defined for " + problem.getProblemName());
         }
 
-        List<String> alternatives = Arrays.asList("A1", "A2", "A3", "A4", "A5");
-        int expertId = 1;
+        // Заполняем список Rating
+        for (int expertId = 0; expertId < numExperts; expertId++) {
+            List<List<String>> expertRatings = problemRatings.get(expertId);
 
-        for (int i = 0; i < problemRatings.size(); i++) {
-            ratings.add(new Rating(problem.getProblemName(), alternatives.get(i), expertId, problemRatings.get(i)));
-            expertId++;
+            for (int i = 0; i < alternatives.size(); i++) {
+                ratings.add(new Rating(problem.getProblemName(), alternatives.get(i), expertId + 1, expertRatings.get(i)));
+            }
         }
 
         return ratings;
