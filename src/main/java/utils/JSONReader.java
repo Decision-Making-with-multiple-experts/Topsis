@@ -20,7 +20,7 @@ public class JSONReader {
             return objectMapper.readerForListOf(Alternative.class)
                     .readValue(rootNode.get("alternatives"));
         } catch (IOException e) {
-            System.err.println("Ошибка загрузки файла " + fileName + ": " + e.getMessage());
+            System.err.println("File upload error " + fileName + ": " + e.getMessage());
             return Collections.emptyList();
         }
     }
@@ -31,7 +31,7 @@ public class JSONReader {
             return objectMapper.readerForListOf(Problem.class)
                     .readValue(rootNode.get("problems"));
         } catch (IOException e) {
-            System.err.println("Ошибка загрузки файла " + fileName + ": " + e.getMessage());
+            System.err.println("File upload error " + fileName + ": " + e.getMessage());
             return Collections.emptyList();
         }
     }
@@ -42,7 +42,7 @@ public class JSONReader {
             return objectMapper.readerForListOf(Rating.class)
                     .readValue(rootNode.get("ratings"));
         } catch (IOException e) {
-            System.err.println("Ошибка загрузки файла " + fileName + ": " + e.getMessage());
+            System.err.println("File upload error " + fileName + ": " + e.getMessage());
             return Collections.emptyList();
         }
     }
@@ -50,7 +50,7 @@ public class JSONReader {
     private static JsonNode readJsonFile(String fileName) throws IOException {
         InputStream inputStream = JSONReader.class.getClassLoader().getResourceAsStream(fileName);
         if (inputStream == null) {
-            throw new IOException("Файл " + fileName + " не найден в resources!");
+            throw new IOException("File " + fileName + " not found in resources!");
         }
         return objectMapper.readTree(inputStream);
     }
