@@ -9,7 +9,8 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 public class Topsis {
-    public static void run(Problem problem, List<Rating> ratings) {
+    public static List<Map.Entry<String, Double>> run(Problem problem, List<Rating> ratings) {
+        List<Map.Entry<String, Double>> result = new ArrayList<>();
         String ANSI_BLUE = "\033[34m";
         String ANSI_GREEN = "\033[32m";
         String ANSI_RESET = "\033[0m";
@@ -18,7 +19,7 @@ public class Topsis {
         // Проверка, есть ли в проблеме критерии
         if (problem.getCriteria() == null || problem.getCriteria().isEmpty()) {
             System.err.println("Error: The problem is missing criteria. Unable to perform analysis.");
-            return;
+            return result;
         }
 
         // Нормализация оценок
@@ -28,7 +29,7 @@ public class Topsis {
         // Проверка на пустые рейтинги
         if (normalizedRatings == null || normalizedRatings.isEmpty()) {
             System.err.println("Error: Ratings list is empty. Unable to perform analysis.");
-            return;
+            return result;
         }
 
         // Усреднение оценок
@@ -44,10 +45,11 @@ public class Topsis {
         Map<String, double[]> distances = calculateEuclidDistances(averagedRatings, idealPoints.get("ideal"), idealPoints.get("antiIdeal"));
 
         // Вычисление удаленности от наихудшего опорного варианта
-        System.out.println(ANSI_GREEN + "\nRanked Alternatives (Descending h(Ai)):" + ANSI_RESET);
+        System.out.println(ANSI_GREEN + "\nRanked Alternatives for " + problem + " (Descending h(Ai)):" + ANSI_RESET);
         Map<String, Double> closeness = calculateRelativeCloseness(distances);
 
-        rankAlternatives(closeness);
+        result = rankAlternatives(closeness);
+        return result;
     }
 
     private static List<NormalizedRating> normalize(List<Rating> ratings, Problem problem) {
@@ -249,9 +251,10 @@ public class Topsis {
         List<Map.Entry<String, Double>> sortedAlternatives = new ArrayList<>(closeness.entrySet());
         sortedAlternatives.sort((a, b) -> Double.compare(b.getValue(), a.getValue())); // По убыванию
 
-        // Вывод результатов
+        // Вывод результатов с округлением до сотых
         for (int i = 0; i < sortedAlternatives.size(); i++) {
-            System.out.println((i + 1) + ". " + sortedAlternatives.get(i).getKey() + " -> h(Ai): " + sortedAlternatives.get(i).getValue());
+            String formattedValue = String.format("%.2f", sortedAlternatives.get(i).getValue());
+            System.out.println((i + 1) + ". " + sortedAlternatives.get(i).getKey() + " -> h(Ai): " + formattedValue);
         }
 
         return sortedAlternatives;

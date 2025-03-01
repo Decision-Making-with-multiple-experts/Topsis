@@ -6,6 +6,10 @@ import com.fasterxml.jackson.databind.node.ObjectNode;
 
 import java.io.File;
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 import java.util.*;
 
 public class DataGenerator {
@@ -68,11 +72,25 @@ public class DataGenerator {
         }
         ratingsJson.set("ratings", ratingsArray);
 
-        // Запись в файлы
+        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyyMMdd_HHmmss");
+        String timestamp = LocalDateTime.now().format(formatter);
+
+        // Папка для хранения файлов с временной меткой
+        String directoryPath = "src/main/resources/generatedData/" + timestamp;
+
         try {
-            objectMapper.writerWithDefaultPrettyPrinter().writeValue(new File("src/main/resources/generatedData/generatedProblems.json"), problemsJson);
-            objectMapper.writerWithDefaultPrettyPrinter().writeValue(new File("src/main/resources/generatedData/generatedRatings.json"), ratingsJson);
-            System.out.println("Files generated successfully!");
+            // Создаём директорию, если её нет
+            Files.createDirectories(Paths.get(directoryPath));
+
+            // Формируем уникальные имена файлов
+            String problemsFilename = directoryPath + "/generatedProblems.json";
+            String ratingsFilename = directoryPath + "/generatedRatings.json";
+
+            // Запись в файлы с уникальными именами
+            objectMapper.writerWithDefaultPrettyPrinter().writeValue(new File(problemsFilename), problemsJson);
+            objectMapper.writerWithDefaultPrettyPrinter().writeValue(new File(ratingsFilename), ratingsJson);
+
+            System.out.println("Files generated successfully: " + problemsFilename + " and " + ratingsFilename);
         } catch (IOException e) {
             System.err.println("Error writing files: " + e.getMessage());
         }

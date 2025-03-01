@@ -9,7 +9,7 @@ public class ScaleConverter {
     static {
         // SHORT
         Map<String, Double> shortScale = new HashMap<>();
-        shortScale.put("Н", 0.0);
+        shortScale.put("Н", 1.0);
         shortScale.put("С", 5.0);
         shortScale.put("В", 9.0);
         scales.put("short", shortScale);
@@ -25,7 +25,7 @@ public class ScaleConverter {
 
         // LONG
         Map<String, Double> longScale = new HashMap<>();
-        longScale.put("ЭН", 0.0);
+        longScale.put("ЭН", 1.0);
         longScale.put("ОН", 2.0);
         longScale.put("Н", 3.0);
         longScale.put("С", 5.0);

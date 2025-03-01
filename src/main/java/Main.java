@@ -3,13 +3,16 @@ import models.Rating;
 import topsis.Topsis;
 import utils.DataGenerator;
 import utils.JSONReader;
+import utils.OutputWriter;
 
+import java.io.File;
 import java.io.PrintStream;
 import java.nio.charset.StandardCharsets;
-import java.util.List;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
+        long startTime = System.nanoTime();
         System.setOut(new PrintStream(System.out, true, StandardCharsets.UTF_8));
 
         boolean generateData = true;
@@ -18,14 +21,18 @@ public class Main {
         List<Problem> problems;
         List<Rating> ratings;
 
-
         if (generateData) {
-            DataGenerator.generateData(8, 4, 10);
-            problems = JSONReader.readProblems("generatedData/generatedProblems.json");
-            ratings = JSONReader.readRatings("generatedData/generatedRatings.json");
+            DataGenerator.generateData(5, 8, 10);
+            String latestDirectory = getLatestGeneratedDataDirectory();
+            OutputWriter.writeResourcePath(latestDirectory + "\\generatedRatings.json");
+            problems = JSONReader.readProblems(latestDirectory + "/generatedProblems.json");
+            ratings = JSONReader.readRatings(latestDirectory + "/generatedRatings.json");
         } else {
-            problems = JSONReader.readProblems("problems.json");
-            ratings = JSONReader.readRatings("ratings.json");
+            String problemPath = "problems.json";
+            String ratingPath = "ratings.json";
+            OutputWriter.writeResourcePath(ratingPath);
+            problems = JSONReader.readProblems(problemPath);
+            ratings = JSONReader.readRatings(ratingPath);
         }
 
         if (showLoadedResources) {
@@ -44,7 +51,35 @@ public class Main {
 
         // Выполнение алгоритма TOPSIS для каждой проблемы
         for (Problem problem : problems) {
-            Topsis.run(problem, ratings);
+            OutputWriter.writeResults(Topsis.run(problem, ratings), problem);
         }
+        OutputWriter.writeEnd();
+
+        long endTime = System.nanoTime(); // Конец измерения времени
+
+        System.out.println("\n\nTopsis execution time: " + (endTime - startTime) / 1_000_000.0 + " ms");
+    }
+
+    /**
+     * Находит последнюю сгенерированную папку в "generatedData/".
+     */
+    private static String getLatestGeneratedDataDirectory() {
+        File baseDir = new File("src/main/resources/generatedData");
+
+        if (!baseDir.exists() || !baseDir.isDirectory()) {
+            return null;
+        }
+
+        File[] directories = baseDir.listFiles(File::isDirectory);
+        if (directories == null || directories.length == 0) {
+            return null;
+        }
+
+        // Сортируем папки по имени (timestamp) в порядке убывания (новейшие первые)
+        Arrays.sort(directories, Comparator.comparing(File::getName).reversed());
+
+        String relativePath = directories[1].getPath().replaceFirst("src[/\\\\]main[/\\\\]resources[/\\\\]?", "");
+
+        return relativePath;
     }
 }
