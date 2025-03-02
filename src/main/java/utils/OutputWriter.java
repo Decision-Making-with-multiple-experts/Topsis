@@ -36,8 +36,6 @@ public class OutputWriter {
             for (int i = 0; i < results.size(); i++) {
                 String formattedValue = String.format("%.2f", results.get(i).getValue()).replace(".", ","); // Округляем до сотых
                 String line = (i + 1) + ". " + results.get(i).getKey() + " -> h(Ai): " + formattedValue;
-
-                System.out.println(line); // Вывод в консоль
                 writer.write(line);
                 writer.newLine();
             }

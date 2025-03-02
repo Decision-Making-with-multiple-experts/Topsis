@@ -1,0 +1,317 @@
+resources path: generatedData\20250302_015831\generatedRatings.json
+
+Ranked Alternatives (Descending h(Ai)):
+1. Alternative 4 -> h(Ai): 0,64
+2. Alternative 1 -> h(Ai): 0,61
+3. Alternative 3 -> h(Ai): 0,47
+4. Alternative 2 -> h(Ai): 0,40
+5. Alternative 5 -> h(Ai): 0,35
+
+----------------------------------------------------------------
+
+resources path: generatedRatings.json
+
+Ranked Alternatives (Descending h(Ai)):
+1. Alternative 2 -> h(Ai): 0,77
+2. Alternative 5 -> h(Ai): 0,43
+3. Alternative 3 -> h(Ai): 0,39
+4. Alternative 4 -> h(Ai): 0,38
+5. Alternative 1 -> h(Ai): 0,37
+
+----------------------------------------------------------------
+
+resources path: ratings.json
+
+Ranked Alternatives (Descending h(Ai)):
+1. Alternative 3 -> h(Ai): 0,77
+2. Alternative 1 -> h(Ai): 0,69
+3. Alternative 4 -> h(Ai): 0,66
+4. Alternative 2 -> h(Ai): 0,31
+
+----------------------------------------------------------------
+
+Ranked Alternatives (Descending h(Ai)):
+1. Alternative 1 -> h(Ai): 0,65
+2. Alternative 8 -> h(Ai): 0,55
+3. Alternative 9 -> h(Ai): 0,51
+4. Alternative 2 -> h(Ai): 0,49
+5. Alternative 5 -> h(Ai): 0,47
+6. Alternative 7 -> h(Ai): 0,46
+7. Alternative 6 -> h(Ai): 0,43
+8. Alternative 4 -> h(Ai): 0,42
+9. Alternative 3 -> h(Ai): 0,40
+
+----------------------------------------------------------------
+
+resources path: generatedRatings.json
+
+Ranked Alternatives (Descending h(Ai)):
+1. Alternative 2 -> h(Ai): 0,77
+2. Alternative 5 -> h(Ai): 0,43
+3. Alternative 3 -> h(Ai): 0,39
+4. Alternative 4 -> h(Ai): 0,38
+5. Alternative 1 -> h(Ai): 0,37
+
+----------------------------------------------------------------
+
+resources path: generatedRatings.json
+
+Ranked Alternatives (Descending h(Ai)):
+1. Alternative 2 -> h(Ai): 0,77
+2. Alternative 5 -> h(Ai): 0,43
+3. Alternative 3 -> h(Ai): 0,39
+4. Alternative 4 -> h(Ai): 0,38
+5. Alternative 1 -> h(Ai): 0,37
+
+----------------------------------------------------------------
+
+resources path: ratings.json
+
+Ranked Alternatives (Descending h(Ai)):
+1. Alternative 3 -> h(Ai): 0,77
+2. Alternative 1 -> h(Ai): 0,69
+3. Alternative 4 -> h(Ai): 0,66
+4. Alternative 2 -> h(Ai): 0,31
+
+Ranked Alternatives (Descending h(Ai)):
+1. Alternative 1 -> h(Ai): 0,65
+2. Alternative 8 -> h(Ai): 0,55
+3. Alternative 9 -> h(Ai): 0,51
+4. Alternative 2 -> h(Ai): 0,49
+5. Alternative 5 -> h(Ai): 0,47
+6. Alternative 7 -> h(Ai): 0,46
+7. Alternative 6 -> h(Ai): 0,43
+8. Alternative 4 -> h(Ai): 0,42
+9. Alternative 3 -> h(Ai): 0,40
+
+Ranked Alternatives (Descending h(Ai)):
+
+----------------------------------------------------------------
+
+resources path: ratings.json
+
+Ranked Alternatives Problem 1 (Descending h(Ai)):
+1. Alternative 3 -> h(Ai): 0,77
+2. Alternative 1 -> h(Ai): 0,69
+3. Alternative 4 -> h(Ai): 0,66
+4. Alternative 2 -> h(Ai): 0,31
+
+Ranked Alternatives Problem 2 (Descending h(Ai)):
+1. Alternative 1 -> h(Ai): 0,65
+2. Alternative 8 -> h(Ai): 0,55
+3. Alternative 9 -> h(Ai): 0,51
+4. Alternative 2 -> h(Ai): 0,49
+5. Alternative 5 -> h(Ai): 0,47
+6. Alternative 7 -> h(Ai): 0,46
+7. Alternative 6 -> h(Ai): 0,43
+8. Alternative 4 -> h(Ai): 0,42
+9. Alternative 3 -> h(Ai): 0,40
+
+Ranked Alternatives Problem 3 (Descending h(Ai)):
+
+----------------------------------------------------------------
+
+resources path: ratings.json
+
+Ranked Alternatives for Problem 1 (Descending h(Ai)):
+1. Alternative 3 -> h(Ai): 0,77
+2. Alternative 1 -> h(Ai): 0,69
+3. Alternative 4 -> h(Ai): 0,66
+4. Alternative 2 -> h(Ai): 0,31
+
+Ranked Alternatives for Problem 2 (Descending h(Ai)):
+1. Alternative 1 -> h(Ai): 0,65
+2. Alternative 8 -> h(Ai): 0,55
+3. Alternative 9 -> h(Ai): 0,51
+4. Alternative 2 -> h(Ai): 0,49
+5. Alternative 5 -> h(Ai): 0,47
+6. Alternative 7 -> h(Ai): 0,46
+7. Alternative 6 -> h(Ai): 0,43
+8. Alternative 4 -> h(Ai): 0,42
+9. Alternative 3 -> h(Ai): 0,40
+
+Ranked Alternatives for Problem 3 (Descending h(Ai)):
+
+----------------------------------------------------------------
+
+resources path: ratings.json
+
+Ranked Alternatives for Problem 1 (Descending h(Ai)):
+1. Alternative 3 -> h(Ai): 0,77
+2. Alternative 1 -> h(Ai): 0,69
+3. Alternative 4 -> h(Ai): 0,66
+4. Alternative 2 -> h(Ai): 0,31
+
+Ranked Alternatives for Problem 2 (Descending h(Ai)):
+1. Alternative 1 -> h(Ai): 0,65
+2. Alternative 8 -> h(Ai): 0,55
+3. Alternative 9 -> h(Ai): 0,51
+4. Alternative 2 -> h(Ai): 0,49
+5. Alternative 5 -> h(Ai): 0,47
+6. Alternative 7 -> h(Ai): 0,46
+7. Alternative 6 -> h(Ai): 0,43
+8. Alternative 4 -> h(Ai): 0,42
+9. Alternative 3 -> h(Ai): 0,40
+
+Ranked Alternatives for Problem 3 (Descending h(Ai)):
+
+----------------------------------------------------------------
+
+resources path: generatedData\20250302_020502\generatedRatings.json
+
+Ranked Alternatives for Problem 1 (Descending h(Ai)):
+1. Alternative 2 -> h(Ai): 0,55
+2. Alternative 3 -> h(Ai): 0,52
+3. Alternative 5 -> h(Ai): 0,50
+4. Alternative 1 -> h(Ai): 0,46
+5. Alternative 4 -> h(Ai): 0,45
+
+----------------------------------------------------------------
+
+resources path: ratings.json
+
+Ranked Alternatives for Problem 1 (Descending h(Ai)):
+1. Alternative 3 -> h(Ai): 0,77
+2. Alternative 1 -> h(Ai): 0,69
+3. Alternative 4 -> h(Ai): 0,66
+4. Alternative 2 -> h(Ai): 0,31
+
+Ranked Alternatives for Problem 2 (Descending h(Ai)):
+1. Alternative 1 -> h(Ai): 0,65
+2. Alternative 8 -> h(Ai): 0,55
+3. Alternative 9 -> h(Ai): 0,51
+4. Alternative 2 -> h(Ai): 0,49
+5. Alternative 5 -> h(Ai): 0,47
+6. Alternative 7 -> h(Ai): 0,46
+7. Alternative 6 -> h(Ai): 0,43
+8. Alternative 4 -> h(Ai): 0,42
+9. Alternative 3 -> h(Ai): 0,40
+
+Ranked Alternatives for Problem 3 (Descending h(Ai)):
+
+----------------------------------------------------------------
+
+resources path: ratings.json
+
+Ranked Alternatives for Problem 1 (Descending h(Ai)):
+1. Alternative 3 -> h(Ai): 0,77
+2. Alternative 1 -> h(Ai): 0,69
+3. Alternative 4 -> h(Ai): 0,66
+4. Alternative 2 -> h(Ai): 0,31
+
+Ranked Alternatives for Problem 2 (Descending h(Ai)):
+1. Alternative 1 -> h(Ai): 0,65
+2. Alternative 8 -> h(Ai): 0,55
+3. Alternative 9 -> h(Ai): 0,51
+4. Alternative 2 -> h(Ai): 0,49
+5. Alternative 5 -> h(Ai): 0,47
+6. Alternative 7 -> h(Ai): 0,46
+7. Alternative 6 -> h(Ai): 0,43
+8. Alternative 4 -> h(Ai): 0,42
+9. Alternative 3 -> h(Ai): 0,40
+
+Ranked Alternatives for Problem 3 (Descending h(Ai)):
+
+----------------------------------------------------------------
+
+resources path: ratings.json
+
+Ranked Alternatives for Problem 1 (Descending h(Ai)):
+1. Alternative 3 -> h(Ai): 0,77
+2. Alternative 1 -> h(Ai): 0,69
+3. Alternative 4 -> h(Ai): 0,66
+4. Alternative 2 -> h(Ai): 0,31
+
+Ranked Alternatives for Problem 2 (Descending h(Ai)):
+1. Alternative 1 -> h(Ai): 0,65
+2. Alternative 8 -> h(Ai): 0,55
+3. Alternative 9 -> h(Ai): 0,51
+4. Alternative 2 -> h(Ai): 0,49
+5. Alternative 5 -> h(Ai): 0,47
+6. Alternative 7 -> h(Ai): 0,46
+7. Alternative 6 -> h(Ai): 0,43
+8. Alternative 4 -> h(Ai): 0,42
+9. Alternative 3 -> h(Ai): 0,40
+
+Ranked Alternatives for Problem 3 (Descending h(Ai)):
+
+----------------------------------------------------------------
+
+resources path: ratings.json
+
+Ranked Alternatives for Problem 1 (Descending h(Ai)):
+1. Alternative 3 -> h(Ai): 0,77
+2. Alternative 1 -> h(Ai): 0,69
+3. Alternative 4 -> h(Ai): 0,66
+4. Alternative 2 -> h(Ai): 0,31
+
+Ranked Alternatives for Problem 2 (Descending h(Ai)):
+1. Alternative 1 -> h(Ai): 0,65
+2. Alternative 8 -> h(Ai): 0,55
+3. Alternative 9 -> h(Ai): 0,51
+4. Alternative 2 -> h(Ai): 0,49
+5. Alternative 5 -> h(Ai): 0,47
+6. Alternative 7 -> h(Ai): 0,46
+7. Alternative 6 -> h(Ai): 0,43
+8. Alternative 4 -> h(Ai): 0,42
+9. Alternative 3 -> h(Ai): 0,40
+
+Ranked Alternatives for Problem 3 (Descending h(Ai)):
+
+----------------------------------------------------------------
+
+resources path: ratings.json
+
+Ranked Alternatives for Problem 1 (Descending h(Ai)):
+1. Alternative 3 -> h(Ai): 0,77
+2. Alternative 1 -> h(Ai): 0,69
+3. Alternative 4 -> h(Ai): 0,66
+4. Alternative 2 -> h(Ai): 0,31
+
+Ranked Alternatives for Problem 2 (Descending h(Ai)):
+1. Alternative 1 -> h(Ai): 0,65
+2. Alternative 8 -> h(Ai): 0,55
+3. Alternative 9 -> h(Ai): 0,51
+4. Alternative 2 -> h(Ai): 0,49
+5. Alternative 5 -> h(Ai): 0,47
+6. Alternative 7 -> h(Ai): 0,46
+7. Alternative 6 -> h(Ai): 0,43
+8. Alternative 4 -> h(Ai): 0,42
+9. Alternative 3 -> h(Ai): 0,40
+
+Ranked Alternatives for Problem 3 (Descending h(Ai)):
+
+----------------------------------------------------------------
+
+resources path: ratings.json
+
+Ranked Alternatives for Problem 1 (Descending h(Ai)):
+1. Alternative 3 -> h(Ai): 0,77
+2. Alternative 1 -> h(Ai): 0,69
+3. Alternative 4 -> h(Ai): 0,66
+4. Alternative 2 -> h(Ai): 0,31
+
+Ranked Alternatives for Problem 2 (Descending h(Ai)):
+1. Alternative 1 -> h(Ai): 0,65
+2. Alternative 8 -> h(Ai): 0,55
+3. Alternative 9 -> h(Ai): 0,51
+4. Alternative 2 -> h(Ai): 0,49
+5. Alternative 5 -> h(Ai): 0,47
+6. Alternative 7 -> h(Ai): 0,46
+7. Alternative 6 -> h(Ai): 0,43
+8. Alternative 4 -> h(Ai): 0,42
+9. Alternative 3 -> h(Ai): 0,40
+
+Ranked Alternatives for Problem 3 (Descending h(Ai)):
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,60
+2. Golang -> h(Ai): 0,40
+3. Rust -> h(Ai): 0,33
+
+----------------------------------------------------------------
+

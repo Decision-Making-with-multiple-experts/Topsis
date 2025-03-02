@@ -45,7 +45,7 @@ public class Topsis {
         Map<String, double[]> distances = calculateEuclidDistances(averagedRatings, idealPoints.get("ideal"), idealPoints.get("antiIdeal"));
 
         // Вычисление удаленности от наихудшего опорного варианта
-        System.out.println(ANSI_GREEN + "\nRanked Alternatives for " + problem + " (Descending h(Ai)):" + ANSI_RESET);
+        System.out.println(ANSI_GREEN + "\nRanked Alternatives for " + problem.getProblemName() + " (Descending h(Ai)):" + ANSI_RESET);
         Map<String, Double> closeness = calculateRelativeCloseness(distances);
 
         result = rankAlternatives(closeness);
@@ -253,7 +253,7 @@ public class Topsis {
 
         // Вывод результатов с округлением до сотых
         for (int i = 0; i < sortedAlternatives.size(); i++) {
-            String formattedValue = String.format("%.2f", sortedAlternatives.get(i).getValue());
+            String formattedValue = String.format("%.3f", sortedAlternatives.get(i).getValue());
             System.out.println((i + 1) + ". " + sortedAlternatives.get(i).getKey() + " -> h(Ai): " + formattedValue);
         }
 
