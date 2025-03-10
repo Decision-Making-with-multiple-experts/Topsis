@@ -1,0 +1,64 @@
+{
+  "problems": [
+    {
+      "problemName": "Problem 2",
+      "criteria": [
+        {
+          "criterionName": "Criterion 1",
+          "criterionScale": "long",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Criterion 2",
+          "criterionScale": "long",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Criterion 3",
+          "criterionScale": "long",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Criterion 4",
+          "criterionScale": "long",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Criterion 5",
+          "criterionScale": "base",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Criterion 6",
+          "criterionScale": "base",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Criterion 7",
+          "criterionScale": "base",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Criterion 8",
+          "criterionScale": "base",
+          "optimizationDirection": "min"
+        },
+        {
+          "criterionName": "Criterion 9",
+          "criterionScale": "base",
+          "optimizationDirection": "min"
+        },
+        {
+          "criterionName": "Criterion 10",
+          "criterionScale": "base",
+          "optimizationDirection": "min"
+        },
+        {
+          "criterionName": "Criterion 11",
+          "criterionScale": "base",
+          "optimizationDirection": "min"
+        }
+      ]
+    }
+  ]
+}

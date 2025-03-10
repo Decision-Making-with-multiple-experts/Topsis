@@ -5,30 +5,41 @@
       "criteria": [
         {
           "criterionName": "Производительность",
-          "criterionScale": "numeric",
+          "criterionScale": "base",
           "optimizationDirection": "max"
         },
         {
           "criterionName": "Безопасность",
-          "criterionScale": "numeric",
+          "criterionScale": "base",
           "optimizationDirection": "max"
         },
         {
           "criterionName": "Многопоточность",
-          "criterionScale": "numeric",
+          "criterionScale": "base",
           "optimizationDirection": "max"
         },
         {
           "criterionName": "Экосистема библиотек",
-          "criterionScale": "numeric",
+          "criterionScale": "base",
           "optimizationDirection": "max"
         },
         {
           "criterionName": "Кривая обучения",
-          "criterionScale": "numeric",
+          "criterionScale": "base",
           "optimizationDirection": "min"
+        },
+        {
+          "criterionName": "Срок реализации",
+          "criterionScale": "base",
+          "optimizationDirection": "min"
+        },
+        {
+          "criterionName": "Масштабируемость",
+          "criterionScale": "base",
+          "optimizationDirection": "max"
         }
       ]
     }
   ]
 }
+

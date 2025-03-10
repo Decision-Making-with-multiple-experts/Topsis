@@ -1,0 +1,354 @@
+{
+  "ratings": [
+    {
+      "problemName": "Выбор стека для разработки системы технического зрения",
+      "alternativeName": "Python",
+      "expertId": 1,
+      "alternativeRatings": [
+        "ОВ",
+        "ОВ",
+        "В",
+        "ОВ",
+        "ОН",
+        "Н",
+        "В"
+      ]
+    },
+    {
+      "problemName": "Выбор стека для разработки системы технического зрения",
+      "alternativeName": "Python",
+      "expertId": 2,
+      "alternativeRatings": [
+        "В",
+        "ОВ",
+        "ОВ",
+        "ОВ",
+        "С",
+        "Н",
+        "В"
+      ]
+    },
+    {
+      "problemName": "Выбор стека для разработки системы технического зрения",
+      "alternativeName": "Python",
+      "expertId": 3,
+      "alternativeRatings": [
+        "ОВ",
+        "С",
+        "В",
+        "ОВ",
+        "Н",
+        "ОН",
+        "В"
+      ]
+    },
+    {
+      "problemName": "Выбор стека для разработки системы технического зрения",
+      "alternativeName": "Python",
+      "expertId": 4,
+      "alternativeRatings": [
+        "В",
+        "ОВ",
+        "ОВ",
+        "С",
+        "Н",
+        "ОН",
+        "В"
+      ]
+    },
+    {
+      "problemName": "Выбор стека для разработки системы технического зрения",
+      "alternativeName": "Python",
+      "expertId": 5,
+      "alternativeRatings": [
+        "ОВ",
+        "В",
+        "В",
+        "ОВ",
+        "Н",
+        "Н",
+        "В"
+      ]
+    },
+    {
+      "problemName": "Выбор стека для разработки системы технического зрения",
+      "alternativeName": "Rust",
+      "expertId": 1,
+      "alternativeRatings": [
+        "В",
+        "Н",
+        "С",
+        "С",
+        "ОВ",
+        "Н",
+        "В"
+      ]
+    },
+    {
+      "problemName": "Выбор стека для разработки системы технического зрения",
+      "alternativeName": "Rust",
+      "expertId": 2,
+      "alternativeRatings": [
+        "В",
+        "ОН",
+        "С",
+        "В",
+        "Н",
+        "Н",
+        "В"
+      ]
+    },
+    {
+      "problemName": "Выбор стека для разработки системы технического зрения",
+      "alternativeName": "Rust",
+      "expertId": 3,
+      "alternativeRatings": [
+        "В",
+        "В",
+        "С",
+        "В",
+        "В",
+        "В",
+        "В"
+      ]
+    },
+    {
+      "problemName": "Выбор стека для разработки системы технического зрения",
+      "alternativeName": "Rust",
+      "expertId": 4,
+      "alternativeRatings": [
+        "В",
+        "ОВ",
+        "С",
+        "В",
+        "В",
+        "С",
+        "Н"
+      ]
+    },
+    {
+      "problemName": "Выбор стека для разработки системы технического зрения",
+      "alternativeName": "Rust",
+      "expertId": 5,
+      "alternativeRatings": [
+        "В",
+        "В",
+        "С",
+        "В",
+        "С",
+        "С",
+        "Н"
+      ]
+    },
+    {
+      "problemName": "Выбор стека для разработки системы технического зрения",
+      "alternativeName": "Go",
+      "expertId": 1,
+      "alternativeRatings": [
+        "В",
+        "В",
+        "ОВ",
+        "С",
+        "С",
+        "Н",
+        "В"
+      ]
+    },
+    {
+      "problemName": "Выбор стека для разработки системы технического зрения",
+      "alternativeName": "Go",
+      "expertId": 2,
+      "alternativeRatings": [
+        "В",
+        "В",
+        "ОВ",
+        "С",
+        "С",
+        "Н",
+        "В"
+      ]
+    },
+    {
+      "problemName": "Выбор стека для разработки системы технического зрения",
+      "alternativeName": "Go",
+      "expertId": 3,
+      "alternativeRatings": [
+        "В",
+        "Н",
+        "В",
+        "С",
+        "Н",
+        "Н",
+        "ОВ"
+      ]
+    },
+    {
+      "problemName": "Выбор стека для разработки системы технического зрения",
+      "alternativeName": "Go",
+      "expertId": 4,
+      "alternativeRatings": [
+        "В",
+        "Н",
+        "В",
+        "С",
+        "С",
+        "С",
+        "ОВ"
+      ]
+    },
+    {
+      "problemName": "Выбор стека для разработки системы технического зрения",
+      "alternativeName": "Go",
+      "expertId": 5,
+      "alternativeRatings": [
+        "В",
+        "В",
+        "В",
+        "С",
+        "С",
+        "Н",
+        "ОВ"
+      ]
+    },
+    {
+      "problemName": "Выбор стека для разработки системы технического зрения",
+      "alternativeName": "C++",
+      "expertId": 1,
+      "alternativeRatings": [
+        "С",
+        "В",
+        "В",
+        "С",
+        "Н",
+        "Н",
+        "В"
+      ]
+    },
+    {
+      "problemName": "Выбор стека для разработки системы технического зрения",
+      "alternativeName": "C++",
+      "expertId": 2,
+      "alternativeRatings": [
+        "Н",
+        "В",
+        "С",
+        "С",
+        "Н",
+        "Н",
+        "ОВ"
+      ]
+    },
+    {
+      "problemName": "Выбор стека для разработки системы технического зрения",
+      "alternativeName": "C++",
+      "expertId": 3,
+      "alternativeRatings": [
+        "Н",
+        "Н",
+        "С",
+        "С",
+        "ОН",
+        "Н",
+        "ОВ"
+      ]
+    },
+    {
+      "problemName": "Выбор стека для разработки системы технического зрения",
+      "alternativeName": "C++",
+      "expertId": 4,
+      "alternativeRatings": [
+        "С",
+        "Н",
+        "В",
+        "С",
+        "ОН",
+        "С",
+        "ОВ"
+      ]
+    },
+    {
+      "problemName": "Выбор стека для разработки системы технического зрения",
+      "alternativeName": "C++",
+      "expertId": 5,
+      "alternativeRatings": [
+        "С",
+        "В",
+        "В",
+        "С",
+        "ОН",
+        "С",
+        "ОВ"
+      ]
+    },
+    {
+      "problemName": "Выбор стека для разработки системы технического зрения",
+      "alternativeName": "Java",
+      "expertId": 1,
+      "alternativeRatings": [
+        "С",
+        "ОН",
+        "С",
+        "Н",
+        "С",
+        "В",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Выбор стека для разработки системы технического зрения",
+      "alternativeName": "Java",
+      "expertId": 2,
+      "alternativeRatings": [
+        "С",
+        "Н",
+        "ОН",
+        "С",
+        "В",
+        "В",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Выбор стека для разработки системы технического зрения",
+      "alternativeName": "Java",
+      "expertId": 3,
+      "alternativeRatings": [
+        "Н",
+        "Н",
+        "С",
+        "С",
+        "В",
+        "В",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Выбор стека для разработки системы технического зрения",
+      "alternativeName": "Java",
+      "expertId": 4,
+      "alternativeRatings": [
+        "С",
+        "Н",
+        "С",
+        "С",
+        "В",
+        "ОВ",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Выбор стека для разработки системы технического зрения",
+      "alternativeName": "Java",
+      "expertId": 5,
+      "alternativeRatings": [
+        "Н",
+        "Н",
+        "Н",
+        "С",
+        "ОВ",
+        "С",
+        "Н"
+      ]
+    }
+  ]
+}

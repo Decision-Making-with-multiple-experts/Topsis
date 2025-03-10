@@ -1,0 +1,825 @@
+{
+  "ratings": [
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 1",
+      "expertId": 1,
+      "alternativeRatings": [
+        "С",
+        "С",
+        "Н",
+        "С",
+        "С",
+        "С",
+        "В",
+        "Н",
+        "С",
+        "С",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 2",
+      "expertId": 1,
+      "alternativeRatings": [
+        "В",
+        "Н",
+        "ОН",
+        "Н",
+        "ОН",
+        "Н",
+        "С",
+        "В",
+        "С",
+        "С",
+        "Н"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 3",
+      "expertId": 1,
+      "alternativeRatings": [
+        "С",
+        "С",
+        "ОВ",
+        "ОН",
+        "С",
+        "Н",
+        "В",
+        "С",
+        "С",
+        "С",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 4",
+      "expertId": 1,
+      "alternativeRatings": [
+        "ЭВ",
+        "Н",
+        "С",
+        "С",
+        "С",
+        "Н",
+        "Н",
+        "С",
+        "С",
+        "С",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 5",
+      "expertId": 1,
+      "alternativeRatings": [
+        "Н",
+        "Н",
+        "С",
+        "ОН",
+        "Н",
+        "ОН",
+        "В",
+        "В",
+        "С",
+        "С",
+        "В"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 6",
+      "expertId": 1,
+      "alternativeRatings": [
+        "ЭВ",
+        "Н",
+        "С",
+        "ОН",
+        "В",
+        "Н",
+        "Н",
+        "В",
+        "Н",
+        "С",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 7",
+      "expertId": 1,
+      "alternativeRatings": [
+        "С",
+        "С",
+        "В",
+        "С",
+        "ОВ",
+        "ОН",
+        "В",
+        "ОВ",
+        "Н",
+        "С",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 8",
+      "expertId": 1,
+      "alternativeRatings": [
+        "С",
+        "С",
+        "С",
+        "С",
+        "С",
+        "ОВ",
+        "В",
+        "В",
+        "С",
+        "В",
+        "В"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 9",
+      "expertId": 1,
+      "alternativeRatings": [
+        "Н",
+        "С",
+        "ОВ",
+        "С",
+        "С",
+        "С",
+        "В",
+        "ОВ",
+        "Н",
+        "С",
+        "В"
+      ]
+    },
+
+
+
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 1",
+      "expertId": 2,
+      "alternativeRatings": [
+        "С",
+        "ОН",
+        "Н",
+        "Н",
+        "В",
+        "С",
+        "С",
+        "С",
+        "С",
+        "В",
+        "В"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 2",
+      "expertId": 2,
+      "alternativeRatings": [
+        "С",
+        "С",
+        "С",
+        "С",
+        "ОН",
+        "Н",
+        "В",
+        "Н",
+        "Н",
+        "В",
+        "В"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 3",
+      "expertId": 2,
+      "alternativeRatings": [
+        "В",
+        "Н",
+        "Н",
+        "ОН",
+        "В",
+        "С",
+        "С",
+        "С",
+        "С",
+        "С",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 4",
+      "expertId": 2,
+      "alternativeRatings": [
+        "ОН",
+        "В",
+        "Н",
+        "ОН",
+        "С",
+        "Н",
+        "ОВ",
+        "В",
+        "С",
+        "С",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 5",
+      "expertId": 2,
+      "alternativeRatings": [
+        "В",
+        "ЭВ",
+        "Н",
+        "Н",
+        "С",
+        "ОН",
+        "С",
+        "С",
+        "С",
+        "С",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 6",
+      "expertId": 2,
+      "alternativeRatings": [
+        "ОН",
+        "ЭВ",
+        "Н",
+        "С",
+        "С",
+        "ОН",
+        "ОВ",
+        "В",
+        "Н",
+        "С",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 7",
+      "expertId": 2,
+      "alternativeRatings": [
+        "С",
+        "С",
+        "Н",
+        "ОН",
+        "ОВ",
+        "Н",
+        "С",
+        "Н",
+        "С",
+        "С",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 8",
+      "expertId": 2,
+      "alternativeRatings": [
+        "Н",
+        "С",
+        "Н",
+        "Н",
+        "В",
+        "С",
+        "С",
+        "В",
+        "С",
+        "Н",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 9",
+      "expertId": 2,
+      "alternativeRatings": [
+        "С",
+        "С",
+        "ОН",
+        "Н",
+        "Н",
+        "Н",
+        "Н",
+        "С",
+        "Н",
+        "С",
+        "Н"
+      ]
+    },
+
+
+
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 1",
+      "expertId": 3,
+      "alternativeRatings": [
+        "С",
+        "С",
+        "Н",
+        "ОВ",
+        "В",
+        "ОВ",
+        "С",
+        "В",
+        "Н",
+        "С",
+        "Н"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 2",
+      "expertId": 3,
+      "alternativeRatings": [
+        "С",
+        "В",
+        "С",
+        "ОН",
+        "Н",
+        "С",
+        "В",
+        "С",
+        "С",
+        "С",
+        "Н"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 3",
+      "expertId": 3,
+      "alternativeRatings": [
+        "В",
+        "С",
+        "Н",
+        "Н",
+        "С",
+        "Н",
+        "ОВ",
+        "В",
+        "Н",
+        "Н",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 4",
+      "expertId": 3,
+      "alternativeRatings": [
+        "ОН",
+        "С",
+        "Н",
+        "Н",
+        "С",
+        "Н",
+        "ОВ",
+        "В",
+        "С",
+        "Н",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 5",
+      "expertId": 3,
+      "alternativeRatings": [
+        "В",
+        "С",
+        "Н",
+        "ОВ",
+        "С",
+        "С",
+        "С",
+        "С",
+        "С",
+        "Н",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 6",
+      "expertId": 3,
+      "alternativeRatings": [
+        "ОН",
+        "ОВ",
+        "Н",
+        "С",
+        "С",
+        "С",
+        "ОВ",
+        "В",
+        "С",
+        "С",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 7",
+      "expertId": 3,
+      "alternativeRatings": [
+        "С",
+        "С",
+        "Н",
+        "Н",
+        "В",
+        "С",
+        "С",
+        "С",
+        "Н",
+        "В",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 8",
+      "expertId": 3,
+      "alternativeRatings": [
+        "ОВ",
+        "Н",
+        "Н",
+        "В",
+        "В",
+        "С",
+        "С",
+        "В",
+        "В",
+        "Н",
+        "В"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 9",
+      "expertId": 3,
+      "alternativeRatings": [
+        "Н",
+        "Н",
+        "ОН",
+        "ОВ",
+        "ОВ",
+        "С",
+        "Н",
+        "Н",
+        "Н",
+        "Н",
+        "В"
+      ]
+    },
+
+
+
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 1",
+      "expertId": 4,
+      "alternativeRatings": [
+        "С",
+        "ОН",
+        "Н",
+        "В",
+        "С",
+        "ОВ",
+        "С",
+        "С",
+        "С",
+        "С",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 2",
+      "expertId": 4,
+      "alternativeRatings": [
+        "В",
+        "ЭВ",
+        "С",
+        "Н",
+        "Н",
+        "Н",
+        "Н",
+        "В",
+        "Н",
+        "С",
+        "В"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 3",
+      "expertId": 4,
+      "alternativeRatings": [
+        "С",
+        "Н",
+        "Н",
+        "ОН",
+        "С",
+        "С",
+        "С",
+        "В",
+        "С",
+        "С",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 4",
+      "expertId": 4,
+      "alternativeRatings": [
+        "ЭВ",
+        "ЭВ",
+        "Н",
+        "ОН",
+        "Н",
+        "Н",
+        "Н",
+        "В",
+        "Н",
+        "В",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 5",
+      "expertId": 4,
+      "alternativeRatings": [
+        "С",
+        "ОВ",
+        "Н",
+        "В",
+        "В",
+        "С",
+        "С",
+        "В",
+        "Н",
+        "В",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 6",
+      "expertId": 4,
+      "alternativeRatings": [
+        "ЭВ",
+        "С",
+        "Н",
+        "С",
+        "Н",
+        "Н",
+        "Н",
+        "С",
+        "Н",
+        "В",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 7",
+      "expertId": 4,
+      "alternativeRatings": [
+        "С",
+        "Н",
+        "Н",
+        "ОН",
+        "С",
+        "ОВ",
+        "С",
+        "ОВ",
+        "Н",
+        "В",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 8",
+      "expertId": 4,
+      "alternativeRatings": [
+        "Н",
+        "Н",
+        "Н",
+        "С",
+        "С",
+        "ОН",
+        "С",
+        "С",
+        "Н",
+        "Н",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 9",
+      "expertId": 4,
+      "alternativeRatings": [
+        "Н",
+        "Н",
+        "ОН",
+        "В",
+        "В",
+        "С",
+        "В",
+        "ОВ",
+        "Н",
+        "С",
+        "Н"
+      ]
+    },
+
+
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 1",
+      "expertId": 5,
+      "alternativeRatings": [
+        "Н",
+        "ОВ",
+        "Н",
+        "Н",
+        "В",
+        "В",
+        "В",
+        "Н",
+        "Н",
+        "С",
+        "В"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 2",
+      "expertId": 5,
+      "alternativeRatings": [
+        "С",
+        "В",
+        "ЭВ",
+        "С",
+        "С",
+        "Н",
+        "В",
+        "С",
+        "Н",
+        "С",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 3",
+      "expertId": 5,
+      "alternativeRatings": [
+        "ОН",
+        "ОВ",
+        "ОН",
+        "ОН",
+        "С",
+        "В",
+        "В",
+        "С",
+        "С",
+        "С",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 4",
+      "expertId": 5,
+      "alternativeRatings": [
+        "ЭВ",
+        "ОН",
+        "Н",
+        "ОН",
+        "С",
+        "Н",
+        "Н",
+        "С",
+        "Н",
+        "С",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 5",
+      "expertId": 5,
+      "alternativeRatings": [
+        "ОН",
+        "В",
+        "ОН",
+        "С",
+        "С",
+        "В",
+        "В",
+        "В",
+        "Н",
+        "Н",
+        "Н"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 6",
+      "expertId": 5,
+      "alternativeRatings": [
+        "ОВ",
+        "С",
+        "ОН",
+        "ОН",
+        "С",
+        "Н",
+        "С",
+        "С",
+        "Н",
+        "Н",
+        "В"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 7",
+      "expertId": 5,
+      "alternativeRatings": [
+        "ОН",
+        "ОВ",
+        "ОН",
+        "Н",
+        "Н",
+        "В",
+        "В",
+        "ОВ",
+        "Н",
+        "С",
+        "Н"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 8",
+      "expertId": 5,
+      "alternativeRatings": [
+        "ОН",
+        "ОВ",
+        "Н",
+        "Н",
+        "В",
+        "В",
+        "В",
+        "С",
+        "С",
+        "Н",
+        "Н"
+      ]
+    },
+    {
+      "problemName": "Problem 2",
+      "alternativeName": "Alternative 9",
+      "expertId": 5,
+      "alternativeRatings": [
+        "ОН",
+        "ОВ",
+        "ОН",
+        "Н",
+        "В",
+        "В",
+        "В",
+        "ОВ",
+        "Н",
+        "С",
+        "Н"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "problems": [
+    {
+      "problemName": "Выбор стека для разработки системы технического зрения",
+      "criteria": [
+        {
+          "criterionName": "Производительность",
+          "criterionScale": "base",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Безопасность",
+          "criterionScale": "base",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Многопоточность",
+          "criterionScale": "base",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Экосистема библиотек",
+          "criterionScale": "base",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Кривая обучения",
+          "criterionScale": "base",
+          "optimizationDirection": "min"
+        },
+        {
+          "criterionName": "Срок реализации",
+          "criterionScale": "base",
+          "optimizationDirection": "min"
+        },
+        {
+          "criterionName": "Масштабируемость",
+          "criterionScale": "base",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Поддержка параллельных вычислений",
+          "criterionScale": "base",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Доступность специалистов",
+          "criterionScale": "base",
+          "optimizationDirection": "max"
+        }
+      ]
+    }
+  ]
+}

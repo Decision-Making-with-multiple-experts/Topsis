@@ -315,3 +315,594 @@ Ranked Alternatives for Выбор стека для разработки сис
 
 ----------------------------------------------------------------
 
+resources path: illustrativeExample/ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,60
+2. Golang -> h(Ai): 0,40
+3. Rust -> h(Ai): 0,33
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Golang -> h(Ai): NaN
+2. Rust -> h(Ai): NaN
+3. Python -> h(Ai): NaN
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Golang -> h(Ai): NaN
+2. Rust -> h(Ai): NaN
+3. Python -> h(Ai): NaN
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,55
+2. Golang -> h(Ai): 0,49
+3. Rust -> h(Ai): 0,35
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,55
+2. Golang -> h(Ai): 0,49
+3. Rust -> h(Ai): 0,35
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/ratings_2.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Golang -> h(Ai): 0,55
+2. Rust -> h(Ai): 0,52
+3. Python -> h(Ai): 0,42
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/2ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,72
+2. C++ -> h(Ai): 0,63
+3. Golang -> h(Ai): 0,60
+4. Rust -> h(Ai): 0,37
+5. java -> h(Ai): 0,29
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,55
+2. Golang -> h(Ai): 0,49
+3. Rust -> h(Ai): 0,35
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,55
+2. Golang -> h(Ai): 0,49
+3. Rust -> h(Ai): 0,35
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/ratings_2.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Golang -> h(Ai): 0,55
+2. Rust -> h(Ai): 0,52
+3. Python -> h(Ai): 0,42
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/3ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,84
+2. Golang -> h(Ai): 0,63
+3. C++ -> h(Ai): 0,62
+4. Rust -> h(Ai): 0,44
+5. java -> h(Ai): 0,00
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/4ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. C++ -> h(Ai): 0,57
+2. Java -> h(Ai): 0,57
+3. JavaScript -> h(Ai): 0,51
+4. Rust -> h(Ai): 0,50
+5. Python -> h(Ai): 0,46
+6. C# -> h(Ai): 0,35
+7. Go -> h(Ai): 0,30
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/4ratings_2.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Rust -> h(Ai): 0,66
+2. Java -> h(Ai): 0,63
+3. Python -> h(Ai): 0,63
+4. JavaScript -> h(Ai): 0,44
+5. C# -> h(Ai): 0,42
+6. C++ -> h(Ai): 0,40
+7. Go -> h(Ai): 0,37
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/4ratings_2.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Rust -> h(Ai): 0,66
+2. Java -> h(Ai): 0,65
+3. Python -> h(Ai): 0,64
+4. JavaScript -> h(Ai): 0,42
+5. C# -> h(Ai): 0,42
+6. C++ -> h(Ai): 0,37
+7. Go -> h(Ai): 0,35
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/4ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,61
+2. Go -> h(Ai): 0,57
+3. Rust -> h(Ai): 0,50
+4. C++ -> h(Ai): 0,48
+5. Java -> h(Ai): 0,41
+6. C# -> h(Ai): 0,34
+7. JavaScript -> h(Ai): 0,32
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/4ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,57
+2. Go -> h(Ai): 0,57
+3. Rust -> h(Ai): 0,51
+4. C++ -> h(Ai): 0,50
+5. Java -> h(Ai): 0,46
+6. C# -> h(Ai): 0,35
+7. JavaScript -> h(Ai): 0,30
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/4ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,81
+2. Go -> h(Ai): 0,63
+3. Rust -> h(Ai): 0,51
+4. Java -> h(Ai): 0,23
+5. C++ -> h(Ai): 0,22
+6. C# -> h(Ai): 0,20
+7. JavaScript -> h(Ai): 0,13
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/4ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,83
+2. Go -> h(Ai): 0,72
+3. Rust -> h(Ai): 0,64
+4. JavaScript -> h(Ai): 0,36
+5. C++ -> h(Ai): 0,33
+6. C# -> h(Ai): 0,19
+7. Java -> h(Ai): 0,07
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/4ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,84
+2. Go -> h(Ai): 0,74
+3. Rust -> h(Ai): 0,68
+4. JavaScript -> h(Ai): 0,43
+5. C++ -> h(Ai): 0,40
+6. Java -> h(Ai): 0,17
+7. C# -> h(Ai): 0,14
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/4ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,86
+2. Go -> h(Ai): 0,78
+3. Rust -> h(Ai): 0,74
+4. C++ -> h(Ai): 0,51
+5. Java -> h(Ai): 0,30
+6. C# -> h(Ai): 0,25
+7. JavaScript -> h(Ai): 0,00
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/4ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,86
+2. Go -> h(Ai): 0,77
+3. Rust -> h(Ai): 0,73
+4. C++ -> h(Ai): 0,49
+5. Java -> h(Ai): 0,27
+6. C# -> h(Ai): 0,22
+7. JavaScript -> h(Ai): 0,00
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/4ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,85
+2. Go -> h(Ai): 0,77
+3. Rust -> h(Ai): 0,72
+4. C++ -> h(Ai): 0,47
+5. Java -> h(Ai): 0,25
+6. C# -> h(Ai): 0,21
+7. JavaScript -> h(Ai): 0,15
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/4ratings_2.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Rust -> h(Ai): 0,66
+2. Java -> h(Ai): 0,63
+3. Python -> h(Ai): 0,63
+4. JavaScript -> h(Ai): 0,44
+5. C# -> h(Ai): 0,42
+6. C++ -> h(Ai): 0,40
+7. Go -> h(Ai): 0,37
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/1ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,85
+2. Go -> h(Ai): 0,77
+3. Rust -> h(Ai): 0,72
+4. C++ -> h(Ai): 0,47
+5. Java -> h(Ai): 0,25
+6. C# -> h(Ai): 0,21
+7. JavaScript -> h(Ai): 0,15
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/2ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,72
+2. C++ -> h(Ai): 0,63
+3. Golang -> h(Ai): 0,60
+4. Rust -> h(Ai): 0,37
+5. java -> h(Ai): 0,29
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/2ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,72
+2. C++ -> h(Ai): 0,63
+3. Go -> h(Ai): 0,60
+4. Rust -> h(Ai): 0,37
+5. Java -> h(Ai): 0,29
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/3ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,84
+2. Golang -> h(Ai): 0,63
+3. C++ -> h(Ai): 0,62
+4. Rust -> h(Ai): 0,44
+5. java -> h(Ai): 0,00
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/2ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,72
+2. C++ -> h(Ai): 0,63
+3. Go -> h(Ai): 0,60
+4. Rust -> h(Ai): 0,37
+5. Java -> h(Ai): 0,29
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/2ratings_2.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,72
+2. C++ -> h(Ai): 0,63
+3. Go -> h(Ai): 0,60
+4. Rust -> h(Ai): 0,37
+5. Java -> h(Ai): 0,29
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/2ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,84
+2. Golang -> h(Ai): 0,63
+3. C++ -> h(Ai): 0,62
+4. Rust -> h(Ai): 0,44
+5. java -> h(Ai): 0,00
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/2ratings_2.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,72
+2. C++ -> h(Ai): 0,63
+3. Go -> h(Ai): 0,60
+4. Rust -> h(Ai): 0,37
+5. Java -> h(Ai): 0,29
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/2ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,84
+2. Golang -> h(Ai): 0,63
+3. C++ -> h(Ai): 0,62
+4. Rust -> h(Ai): 0,44
+5. java -> h(Ai): 0,00
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/2ratings_2.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,72
+2. C++ -> h(Ai): 0,63
+3. Go -> h(Ai): 0,60
+4. Rust -> h(Ai): 0,37
+5. Java -> h(Ai): 0,29
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/2ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,84
+2. Golang -> h(Ai): 0,63
+3. C++ -> h(Ai): 0,62
+4. Rust -> h(Ai): 0,44
+5. java -> h(Ai): 0,00
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/2ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,84
+2. Go -> h(Ai): 0,63
+3. C++ -> h(Ai): 0,62
+4. Rust -> h(Ai): 0,44
+5. Java -> h(Ai): 0,00
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/2ratings_2.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,72
+2. C++ -> h(Ai): 0,63
+3. Go -> h(Ai): 0,60
+4. Rust -> h(Ai): 0,37
+5. Java -> h(Ai): 0,29
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/1ratings_2.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Rust -> h(Ai): 0,66
+2. Java -> h(Ai): 0,63
+3. Python -> h(Ai): 0,63
+4. JavaScript -> h(Ai): 0,44
+5. C# -> h(Ai): 0,42
+6. C++ -> h(Ai): 0,40
+7. Go -> h(Ai): 0,37
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/3ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,55
+2. Go -> h(Ai): 0,49
+3. Rust -> h(Ai): 0,35
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/3ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,55
+2. Go -> h(Ai): 0,49
+3. Rust -> h(Ai): 0,35
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/3ratings_2.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Go -> h(Ai): 0,55
+2. Rust -> h(Ai): 0,52
+3. Python -> h(Ai): 0,42
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/3ratings_2.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. C++ -> h(Ai): 0,66
+2. Python -> h(Ai): 0,56
+3. Go -> h(Ai): 0,53
+4. Rust -> h(Ai): 0,37
+5. Java -> h(Ai): 0,24
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/3ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,72
+2. C++ -> h(Ai): 0,63
+3. Go -> h(Ai): 0,60
+4. Rust -> h(Ai): 0,37
+5. Java -> h(Ai): 0,29
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/3ratings_2.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. C++ -> h(Ai): 0,66
+2. Python -> h(Ai): 0,56
+3. Go -> h(Ai): 0,53
+4. Rust -> h(Ai): 0,37
+5. Java -> h(Ai): 0,24
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/3ratings_2.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. C++ -> h(Ai): 0,66
+2. Python -> h(Ai): 0,56
+3. Go -> h(Ai): 0,53
+4. Rust -> h(Ai): 0,37
+5. Java -> h(Ai): 0,24
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/4ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,84
+2. Go -> h(Ai): 0,63
+3. C++ -> h(Ai): 0,62
+4. Rust -> h(Ai): 0,44
+5. Java -> h(Ai): 0,00
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/4ratings_2.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,63
+2. C++ -> h(Ai): 0,61
+3. Go -> h(Ai): 0,55
+4. Rust -> h(Ai): 0,42
+5. Java -> h(Ai): 0,31
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/4ratings_2.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,63
+2. C++ -> h(Ai): 0,61
+3. Go -> h(Ai): 0,55
+4. Rust -> h(Ai): 0,42
+5. Java -> h(Ai): 0,31
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/4ratings.json
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/4ratings.json
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/4ratings.json
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/1ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,85
+2. Go -> h(Ai): 0,77
+3. Rust -> h(Ai): 0,72
+4. C++ -> h(Ai): 0,47
+5. Java -> h(Ai): 0,25
+6. C# -> h(Ai): 0,21
+7. JavaScript -> h(Ai): 0,15
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/4ratings.json
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/4ratings.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,85
+2. Go -> h(Ai): 0,60
+3. C++ -> h(Ai): 0,60
+4. Rust -> h(Ai): 0,43
+5. Java -> h(Ai): 0,00
+
+----------------------------------------------------------------
+
+resources path: illustrativeExample/4ratings_2.json
+
+Ranked Alternatives for Выбор стека для разработки системы технического зрения (Descending h(Ai)):
+1. Python -> h(Ai): 0,63
+2. C++ -> h(Ai): 0,61
+3. Go -> h(Ai): 0,55
+4. Rust -> h(Ai): 0,42
+5. Java -> h(Ai): 0,31
+
+----------------------------------------------------------------
+
+resources path: verbalRatings.json
+
+----------------------------------------------------------------
+
+resources path: verbalRatings.json
+
+Ranked Alternatives for Problem 2 (Descending h(Ai)):
+1. Alternative 1 -> h(Ai): 0,59
+2. Alternative 8 -> h(Ai): 0,53
+3. Alternative 9 -> h(Ai): 0,51
+4. Alternative 2 -> h(Ai): 0,49
+5. Alternative 7 -> h(Ai): 0,47
+6. Alternative 5 -> h(Ai): 0,47
+7. Alternative 6 -> h(Ai): 0,43
+8. Alternative 3 -> h(Ai): 0,42
+9. Alternative 4 -> h(Ai): 0,37
+
+----------------------------------------------------------------
+
