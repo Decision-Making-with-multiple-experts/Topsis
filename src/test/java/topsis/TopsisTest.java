@@ -1,13 +1,14 @@
+package topsis;
+
 import models.*;
 import org.junit.jupiter.api.Test;
-import topsis.Topsis;
 import java.util.*;
 import static org.junit.jupiter.api.Assertions.*;
 
-class TopsisTest {
+public class TopsisTest {
 
     @Test
-    void testTopsisWithMinimalData() {
+    public void testTopsisWithMinimalData() {
         // Граничный случай: 1 альтернатива, 1 критерий, 1 эксперт
         Problem problem = new Problem("Minimal problem", List.of(new Criterion("Criterion 1", "base", "max")));
         List<Rating> ratings = List.of(new Rating("Minimal problem", "A1", 1, List.of("ОВ")));
@@ -17,7 +18,7 @@ class TopsisTest {
     }
 
     @Test
-    void testTopsisWithMaximalData() {
+    public void testTopsisWithMaximalData() {
         // Граничный случай: 10 альтернатив, 10 критериев, 10 экспертов
         List<Criterion> criteria = new ArrayList<>();
         for (int i = 1; i <= 10; i++) {
@@ -43,7 +44,7 @@ class TopsisTest {
     }
 
     @Test
-    void testTopsisWithOnlyMinCriteria() {
+    public void testTopsisWithOnlyMinCriteria() {
         // Тестируем случай, когда все критерии минимизируются
         Problem problem = new Problem("All min problem", Arrays.asList(
                 new Criterion("Criterion 1", "numeric", "min"),
@@ -65,7 +66,7 @@ class TopsisTest {
     }
 
     @Test
-    void testTopsisWithOnlyMaxCriteria() {
+    public void testTopsisWithOnlyMaxCriteria() {
         // Тестируем случай, когда все критерии максимизируются
         Problem problem = new Problem("All max problem", Arrays.asList(
                 new Criterion("Criterion 1", "numeric", "max"),
@@ -87,7 +88,7 @@ class TopsisTest {
     }
 
     @Test
-    void testTopsisWithMixedScales() {
+    public void testTopsisWithMixedScales() {
         // Тестируем случай со смешанными шкалами критериев
         Problem problem = new Problem("Mixed scale problem", Arrays.asList(
                 new Criterion("Criterion 1", "numeric", "max"),
@@ -105,7 +106,7 @@ class TopsisTest {
     }
 
     @Test
-    void testTopsisWithTiedScores() {
+    public void testTopsisWithTiedScores() {
         // Проверяем случай, когда у альтернатив одинаковые оценки
         Problem problem = new Problem("Tied scores problem", Arrays.asList(
                 new Criterion("Criterion 1", "numeric", "max"),
@@ -124,7 +125,7 @@ class TopsisTest {
     }
 
     @Test
-    void testTopsisWithEmptyRatings() {
+    public void testTopsisWithEmptyRatings() {
         // Проверяем, что алгоритм корректно обрабатывает пустой список рейтингов
         Problem problem = new Problem("Empty ratings problem", Arrays.asList(
                 new Criterion("Criterion 1", "numeric", "max")
@@ -137,7 +138,7 @@ class TopsisTest {
     }
 
     @Test
-    void testTopsisRunOnMultipleProblems() {
+    public void testTopsisRunOnMultipleProblems() {
         // 5 фиксированных тестовых проблем
         List<Problem> problems = createTestProblems();
 

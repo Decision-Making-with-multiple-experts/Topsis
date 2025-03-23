@@ -52,7 +52,7 @@ public class Topsis {
         return result;
     }
 
-    private static List<NormalizedRating> normalize(List<Rating> ratings, Problem problem) {
+    public static List<NormalizedRating> normalize(List<Rating> ratings, Problem problem) {
         List<NormalizedRating> normalizedRatings = RatingNormalizer.normalizeRatings(ratings, problem);
 
         for (NormalizedRating normalizedRating : normalizedRatings) {
@@ -61,7 +61,7 @@ public class Topsis {
         return normalizedRatings;
     }
 
-    private static Map<String, double[]> groupAndAverageRatings(List<NormalizedRating> normalizedRatings) {
+    public static Map<String, double[]> groupAndAverageRatings(List<NormalizedRating> normalizedRatings) {
         // Группируем оценки по экспертам
         Map<Integer, List<NormalizedRating>> groupedByExpert = normalizedRatings.stream()
                 .collect(Collectors.groupingBy(NormalizedRating::getExpertId));
@@ -153,13 +153,13 @@ public class Topsis {
         return averagedByExpertsRatings;
     }
 
-    private static List<Boolean> extractIsPositiveCriteria(Problem problem) {
+    public static List<Boolean> extractIsPositiveCriteria(Problem problem) {
         return problem.getCriteria().stream()
                 .map(criterion -> criterion.getOptimizationDirection().equalsIgnoreCase("max"))
                 .collect(Collectors.toList());
     }
 
-    private static Map<String, double[]> calculateIdealAndAntiIdealPoints(Map<String, double[]> averagedRatings, List<Boolean> isPositiveCriteria) {
+    public static Map<String, double[]> calculateIdealAndAntiIdealPoints(Map<String, double[]> averagedRatings, List<Boolean> isPositiveCriteria) {
         String ANSI_GREEN = "\033[32m";
         String ANSI_RESET = "\033[0m";
         int criteriaCount = averagedRatings.values().iterator().next().length;
@@ -196,7 +196,7 @@ public class Topsis {
         return idealPoints;
     }
 
-    private static Map<String, double[]> calculateEuclidDistances(
+    public static Map<String, double[]> calculateEuclidDistances(
             Map<String, double[]> averagedRatings,
             double[] idealPoint,
             double[] antiIdealPoint) {
@@ -230,7 +230,7 @@ public class Topsis {
         return distances;
     }
 
-    private static Map<String, Double> calculateRelativeCloseness(Map<String, double[]> distances) {
+    public static Map<String, Double> calculateRelativeCloseness(Map<String, double[]> distances) {
         Map<String, Double> closeness = new HashMap<>();
 
         for (Map.Entry<String, double[]> entry : distances.entrySet()) {
@@ -246,7 +246,7 @@ public class Topsis {
         return closeness;
     }
 
-    private static List<Map.Entry<String, Double>> rankAlternatives(Map<String, Double> closeness) {
+    public static List<Map.Entry<String, Double>> rankAlternatives(Map<String, Double> closeness) {
         // Сортируем список альтернатив по убыванию h(Ai)
         List<Map.Entry<String, Double>> sortedAlternatives = new ArrayList<>(closeness.entrySet());
         sortedAlternatives.sort((a, b) -> Double.compare(b.getValue(), a.getValue())); // По убыванию
