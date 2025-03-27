@@ -51,6 +51,6 @@ public class ScaleConverter {
     }
 
     public static double convert(String scaleType, String value) {
-        return scales.getOrDefault(scaleType, new HashMap<>()).getOrDefault(value, -1.0);
+        return scales.getOrDefault(scaleType, new HashMap<>()).getOrDefault(value, 0.0);
     }
 }
