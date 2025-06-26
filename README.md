@@ -1,13 +1,17 @@
-# TOPSIS 
+## About
+The repository presents implementation of Method of group decision making based called TOPSIS[1].
 
-Этот проект представляет реализацию метода **TOPSIS** (Technique for Order of Preference by Similarity to Ideal Solution) для группового многокритериального анализа решений.  
+The project is completed during the Descision Making course at SPbPU Institute of Computer Science and Cybersecurity (SPbPU ICSC).
 
-## 📌 Описание  
-Алгоритм принимает на вход **альтернативы, критерии и экспертные оценки**, нормализует данные, вычисляет идеальные и анти-идеальные точки, находит расстояния альтернатив до этих точек и ранжирует их по степени близости к идеальному решению.  
+## Persons
+The main contributor of the project is Valentina A. Gurina, a student of SPbPU ICSC.
 
-## 🚀 Запуск  
-1. Убедитесь, что установлен **Maven** и **JDK 17**.  
-2. Клонируйте репозиторий:  
-   ```bash
-   git clone https://github.com/valguru/Topsis.git
-   cd Topsis
+The advisor and minor contributor is Vladimir A. Parkhomenko a seniour lecturer of SPbPU ICSC.
+
+## Warranty
+The contributors give no warranty for the using of the software. The authors kindly asks to cite paper which will be published soon [2].
+
+[1] Петровский A. Б. Теория принятия решений. — Издательский центр "Академия", 2009.
+
+[2] О методах группового принятия решений, 2025
+
