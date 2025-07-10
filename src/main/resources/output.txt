@@ -906,3 +906,752 @@ Ranked Alternatives for Problem 2 (Descending h(Ai)):
 
 ----------------------------------------------------------------
 
+resources path: verbalRatings.json
+
+Ranked Alternatives for Problem 2 (Descending h(Ai)):
+1. Alternative 1 -> h(Ai): 0,59
+2. Alternative 8 -> h(Ai): 0,53
+3. Alternative 9 -> h(Ai): 0,51
+4. Alternative 2 -> h(Ai): 0,49
+5. Alternative 7 -> h(Ai): 0,47
+6. Alternative 5 -> h(Ai): 0,47
+7. Alternative 6 -> h(Ai): 0,43
+8. Alternative 3 -> h(Ai): 0,42
+9. Alternative 4 -> h(Ai): 0,37
+
+----------------------------------------------------------------
+
+resources path: verbalRatings.json
+
+Ranked Alternatives for Problem 2 (Descending h(Ai)):
+1. Alternative 1 -> h(Ai): 0,59
+2. Alternative 8 -> h(Ai): 0,53
+3. Alternative 9 -> h(Ai): 0,51
+4. Alternative 2 -> h(Ai): 0,49
+5. Alternative 7 -> h(Ai): 0,47
+6. Alternative 5 -> h(Ai): 0,47
+7. Alternative 6 -> h(Ai): 0,43
+8. Alternative 3 -> h(Ai): 0,42
+9. Alternative 4 -> h(Ai): 0,37
+
+----------------------------------------------------------------
+
+resources path: verbalRatings.json
+
+Ranked Alternatives for Problem 2 (Descending h(Ai)):
+1. Alternative 1 -> h(Ai): 0,59
+2. Alternative 8 -> h(Ai): 0,53
+3. Alternative 9 -> h(Ai): 0,51
+4. Alternative 2 -> h(Ai): 0,49
+5. Alternative 7 -> h(Ai): 0,47
+6. Alternative 5 -> h(Ai): 0,47
+7. Alternative 6 -> h(Ai): 0,43
+8. Alternative 3 -> h(Ai): 0,42
+9. Alternative 4 -> h(Ai): 0,37
+
+----------------------------------------------------------------
+
+resources path: verbalRatings.json
+
+Ranked Alternatives for Problem 2 (Descending h(Ai)):
+1. Alternative 1 -> h(Ai): 0,59
+2. Alternative 8 -> h(Ai): 0,53
+3. Alternative 9 -> h(Ai): 0,51
+4. Alternative 2 -> h(Ai): 0,49
+5. Alternative 7 -> h(Ai): 0,47
+6. Alternative 5 -> h(Ai): 0,47
+7. Alternative 6 -> h(Ai): 0,43
+8. Alternative 3 -> h(Ai): 0,42
+9. Alternative 4 -> h(Ai): 0,37
+
+----------------------------------------------------------------
+
+resources path: ratings.json
+
+Ranked Alternatives for Problem 1 (Descending h(Ai)):
+1. Alternative 3 -> h(Ai): 0,77
+2. Alternative 1 -> h(Ai): 0,69
+3. Alternative 4 -> h(Ai): 0,66
+4. Alternative 2 -> h(Ai): 0,31
+
+Ranked Alternatives for Problem 2 (Descending h(Ai)):
+1. Alternative 1 -> h(Ai): 0,65
+2. Alternative 8 -> h(Ai): 0,55
+3. Alternative 9 -> h(Ai): 0,51
+4. Alternative 2 -> h(Ai): 0,49
+5. Alternative 5 -> h(Ai): 0,47
+6. Alternative 7 -> h(Ai): 0,46
+7. Alternative 6 -> h(Ai): 0,43
+8. Alternative 4 -> h(Ai): 0,42
+9. Alternative 3 -> h(Ai): 0,40
+
+Ranked Alternatives for Problem 3 (Descending h(Ai)):
+
+----------------------------------------------------------------
+
+resources path: ratings.json
+
+Ranked Alternatives for Problem 1 (Descending h(Ai)):
+1. Alternative 3 -> h(Ai): 0,77
+2. Alternative 1 -> h(Ai): 0,69
+3. Alternative 4 -> h(Ai): 0,66
+4. Alternative 2 -> h(Ai): 0,31
+
+Ranked Alternatives for Problem 2 (Descending h(Ai)):
+1. Alternative 1 -> h(Ai): 0,65
+2. Alternative 8 -> h(Ai): 0,55
+3. Alternative 9 -> h(Ai): 0,51
+4. Alternative 2 -> h(Ai): 0,49
+5. Alternative 5 -> h(Ai): 0,47
+6. Alternative 7 -> h(Ai): 0,46
+7. Alternative 6 -> h(Ai): 0,43
+8. Alternative 4 -> h(Ai): 0,42
+9. Alternative 3 -> h(Ai): 0,40
+
+Ranked Alternatives for Problem 3 (Descending h(Ai)):
+
+----------------------------------------------------------------
+
+resources path: ratings.json
+
+Ranked Alternatives for Problem 1 (Descending h(Ai)):
+1. Alternative 3 -> h(Ai): 0,77
+2. Alternative 1 -> h(Ai): 0,69
+3. Alternative 4 -> h(Ai): 0,66
+4. Alternative 2 -> h(Ai): 0,31
+
+Ranked Alternatives for Problem 2 (Descending h(Ai)):
+1. Alternative 1 -> h(Ai): 0,65
+2. Alternative 8 -> h(Ai): 0,55
+3. Alternative 9 -> h(Ai): 0,51
+4. Alternative 2 -> h(Ai): 0,49
+5. Alternative 5 -> h(Ai): 0,47
+6. Alternative 7 -> h(Ai): 0,46
+7. Alternative 6 -> h(Ai): 0,43
+8. Alternative 4 -> h(Ai): 0,42
+9. Alternative 3 -> h(Ai): 0,40
+
+Ranked Alternatives for Problem 3 (Descending h(Ai)):
+
+----------------------------------------------------------------
+
+resources path: generatedData\20250302_013406\generatedRatings.json
+
+Ranked Alternatives for Problem 1 (Descending h(Ai)):
+1. Alternative 3 -> h(Ai): 0,76
+2. Alternative 5 -> h(Ai): 0,46
+3. Alternative 4 -> h(Ai): 0,44
+4. Alternative 2 -> h(Ai): 0,43
+5. Alternative 1 -> h(Ai): 0,27
+
+----------------------------------------------------------------
+
+resources path: generatedData\20250331_002848\generatedRatings.json
+
+Ranked Alternatives for Problem 1 (Descending h(Ai)):
+1. Alternative 5 -> h(Ai): 0,54
+2. Alternative 2 -> h(Ai): 0,47
+3. Alternative 4 -> h(Ai): 0,45
+4. Alternative 3 -> h(Ai): 0,35
+5. Alternative 1 -> h(Ai): 0,32
+
+----------------------------------------------------------------
+
+resources path: generatedData\20250602_045207\generatedRatings.json
+
+Ranked Alternatives for Problem 1 (Descending h(Ai)):
+1. Alternative 2 -> h(Ai): 0,66
+2. Alternative 4 -> h(Ai): 0,57
+3. Alternative 1 -> h(Ai): 0,52
+4. Alternative 5 -> h(Ai): 0,47
+5. Alternative 3 -> h(Ai): 0,43
+
+----------------------------------------------------------------
+
+resources path: ratings.json
+
+Ranked Alternatives for Problem 1 (Descending h(Ai)):
+1. Alternative 3 -> h(Ai): 0,77
+2. Alternative 1 -> h(Ai): 0,69
+3. Alternative 4 -> h(Ai): 0,66
+4. Alternative 2 -> h(Ai): 0,31
+
+Ranked Alternatives for Problem 2 (Descending h(Ai)):
+1. Alternative 1 -> h(Ai): 0,65
+2. Alternative 8 -> h(Ai): 0,55
+3. Alternative 9 -> h(Ai): 0,51
+4. Alternative 2 -> h(Ai): 0,49
+5. Alternative 5 -> h(Ai): 0,47
+6. Alternative 7 -> h(Ai): 0,46
+7. Alternative 6 -> h(Ai): 0,43
+8. Alternative 4 -> h(Ai): 0,42
+9. Alternative 3 -> h(Ai): 0,40
+
+Ranked Alternatives for Problem 3 (Descending h(Ai)):
+
+----------------------------------------------------------------
+
+resources path: ratings.json
+
+Ranked Alternatives for Problem 1 (Descending h(Ai)):
+1. Alternative 3 -> h(Ai): 0,77
+2. Alternative 1 -> h(Ai): 0,69
+3. Alternative 4 -> h(Ai): 0,66
+4. Alternative 2 -> h(Ai): 0,31
+
+Ranked Alternatives for Problem 2 (Descending h(Ai)):
+1. Alternative 1 -> h(Ai): 0,65
+2. Alternative 8 -> h(Ai): 0,55
+3. Alternative 9 -> h(Ai): 0,51
+4. Alternative 2 -> h(Ai): 0,49
+5. Alternative 5 -> h(Ai): 0,47
+6. Alternative 7 -> h(Ai): 0,46
+7. Alternative 6 -> h(Ai): 0,43
+8. Alternative 4 -> h(Ai): 0,42
+9. Alternative 3 -> h(Ai): 0,40
+
+Ranked Alternatives for Problem 3 (Descending h(Ai)):
+
+----------------------------------------------------------------
+
+resources path: ratings.json
+
+Ranked Alternatives for Problem 1 (Descending h(Ai)):
+1. Alternative 3 -> h(Ai): 0,77
+2. Alternative 1 -> h(Ai): 0,69
+3. Alternative 4 -> h(Ai): 0,66
+4. Alternative 2 -> h(Ai): 0,31
+
+Ranked Alternatives for Problem 2 (Descending h(Ai)):
+1. Alternative 1 -> h(Ai): 0,65
+2. Alternative 8 -> h(Ai): 0,55
+3. Alternative 9 -> h(Ai): 0,51
+4. Alternative 2 -> h(Ai): 0,49
+5. Alternative 5 -> h(Ai): 0,47
+6. Alternative 7 -> h(Ai): 0,46
+7. Alternative 6 -> h(Ai): 0,43
+8. Alternative 4 -> h(Ai): 0,42
+9. Alternative 3 -> h(Ai): 0,40
+
+Ranked Alternatives for Problem 3 (Descending h(Ai)):
+
+----------------------------------------------------------------
+
+resources path: cases/matchingRating.json
+
+Ranked Alternatives for На каком этапе должен выполняться матчинг данных документа с каталогами поставщика в процессе его подготовки и отправки? (Descending h(Ai)):
+1. При создании черновика -> h(Ai): 0,63
+2. При каждом редактировании и сохранении черновика -> h(Ai): 0,47
+3. При отправке документа -> h(Ai): 0,40
+
+----------------------------------------------------------------
+
+resources path: cases/matchingRating.json
+
+Ranked Alternatives for На каком этапе должен выполняться матчинг данных документа с каталогами поставщика в процессе его подготовки и отправки? (Descending h(Ai)):
+1. При создании черновика -> h(Ai): 0,52
+2. При отправке документа -> h(Ai): 0,50
+3. При каждом редактировании и сохранении черновика -> h(Ai): 0,45
+
+----------------------------------------------------------------
+
+resources path: cases/matchingRating.json
+
+Ranked Alternatives for На каком этапе должен выполняться матчинг данных документа с каталогами поставщика в процессе его подготовки и отправки? (Descending h(Ai)):
+1. При создании черновика -> h(Ai): 0,52
+2. При отправке документа -> h(Ai): 0,50
+3. При каждом редактировании и сохранении черновика -> h(Ai): 0,45
+
+----------------------------------------------------------------
+
+resources path: cases/dbirdRatings.json
+
+Ranked Alternatives for От каких проектов наследовать проект DocsBird? (Descending h(Ai)):
+1. От BLT -> h(Ai): 0,70
+2. От ядра -> h(Ai): 0,62
+3. От Ediweb -> h(Ai): 0,62
+4. Не наследовать -> h(Ai): 0,35
+
+----------------------------------------------------------------
+
+resources path: cases/dbirdRatings.json
+
+Ranked Alternatives for От каких проектов наследовать проект DocsBird? (Descending h(Ai)):
+1. От BLT -> h(Ai): 0,72
+2. От ядра -> h(Ai): 0,60
+3. От Ediweb -> h(Ai): 0,54
+4. Не наследовать -> h(Ai): 0,30
+
+----------------------------------------------------------------
+
+resources path: cases/testingRatings.json
+
+Ranked Alternatives for Как упростить тестирование проектов? (Descending h(Ai)):
+
+----------------------------------------------------------------
+
+resources path: cases/testingRatings.json
+
+Ranked Alternatives for Как упростить тестирование проектов? (Descending h(Ai)):
+
+----------------------------------------------------------------
+
+resources path: cases/testingRatings.json
+
+Ranked Alternatives for Как упростить тестирование проектов (Descending h(Ai)):
+1. Добавление дата-атрибутов для компонентов UIKit -> h(Ai): 0,86
+2. Добавление классов для компонентов UIKit -> h(Ai): 0,80
+3. Добавление специальных меток (полных путей с иерархией) в коде (классы/атрибуты) на конкретных формах -> h(Ai): 0,14
+
+----------------------------------------------------------------
+
+resources path: cases/testingRatings.json
+
+Ranked Alternatives for Как упростить тестирование проектов (Descending h(Ai)):
+1. Добавление дата-атрибутов для компонентов UIKit -> h(Ai): 0,86
+2. Добавление классов для компонентов UIKit -> h(Ai): 0,80
+3. Добавление специальных меток (полных путей с иерархией) в коде (классы/атрибуты) на конкретных формах -> h(Ai): 0,14
+
+----------------------------------------------------------------
+
+resources path: cases/dbirdRatings.json
+
+Ranked Alternatives for От каких проектов наследовать проект DocsBird? (Descending h(Ai)):
+1. От BLT -> h(Ai): 0,72
+2. От ядра -> h(Ai): 0,60
+3. От Ediweb -> h(Ai): 0,54
+4. Не наследовать -> h(Ai): 0,30
+
+----------------------------------------------------------------
+
+resources path: cases/dbirdRatings.json
+
+Ranked Alternatives for От каких проектов наследовать проект DocsBird? (Descending h(Ai)):
+1. От BLT -> h(Ai): 0,72
+2. От ядра -> h(Ai): 0,60
+3. От Ediweb -> h(Ai): 0,54
+4. Не наследовать -> h(Ai): 0,30
+
+----------------------------------------------------------------
+
+resources path: cases/dbirdRatings.json
+
+Ranked Alternatives for От каких проектов наследовать проект DocsBird? (Descending h(Ai)):
+1. От BLT -> h(Ai): 0,72
+2. От ядра -> h(Ai): 0,60
+3. От Ediweb -> h(Ai): 0,54
+4. Не наследовать -> h(Ai): 0,30
+
+----------------------------------------------------------------
+
+resources path: cases/dbirdRatings.json
+
+Ranked Alternatives for От каких проектов наследовать проект DocsBird? (Descending h(Ai)):
+1. От BLT -> h(Ai): 0,72
+2. От ядра -> h(Ai): 0,60
+3. От Ediweb -> h(Ai): 0,54
+4. Не наследовать -> h(Ai): 0,30
+
+----------------------------------------------------------------
+
+resources path: cases/dbirdRatings.json
+
+Ranked Alternatives for От каких проектов наследовать проект DocsBird? (Descending h(Ai)):
+1. От BLT -> h(Ai): 0,72
+2. От ядра -> h(Ai): 0,60
+3. От Ediweb -> h(Ai): 0,54
+4. Не наследовать -> h(Ai): 0,30
+
+----------------------------------------------------------------
+
+resources path: cases/danonRatings.json
+
+Ranked Alternatives for Стоит ли выделять отдельную ветку danon от ветки ediweb (Descending h(Ai)):
+1. Вынесение danon в отдельную ветку -> h(Ai): 1,00
+2. Работа в ветке ediweb -> h(Ai): 0,00
+
+----------------------------------------------------------------
+
+resources path: cases/danonRatings.json
+
+Ranked Alternatives for Стоит ли выделять отдельную ветку danon от ветки ediweb (Descending h(Ai)):
+1. Вынесение danon в отдельную ветку -> h(Ai): 1,00
+2. Работа в ветке ediweb -> h(Ai): 0,00
+
+----------------------------------------------------------------
+
+resources path: cases/bltRatings.json
+
+Ranked Alternatives for Как писать UIKit на BLT (Descending h(Ai)):
+1. Наследовать UIKit -> h(Ai): 0,71
+2. Использовать UIKit ядра -> h(Ai): 0,63
+3. Наследовать UIKit  -> h(Ai): 0,60
+4. Писать отдельный UIKit проекта -> h(Ai): 0,37
+
+----------------------------------------------------------------
+
+resources path: cases/bltRatings.json
+
+Ranked Alternatives for Как писать UIKit на BLT (Descending h(Ai)):
+1. Наследовать UIKit  -> h(Ai): 0,70
+2. Использовать UIKit ядра -> h(Ai): 0,63
+3. Наследовать UIKit -> h(Ai): 0,53
+4. Писать отдельный UIKit проекта -> h(Ai): 0,37
+
+----------------------------------------------------------------
+
+resources path: cases/bltRatings.json
+
+Ranked Alternatives for Как писать UIKit на BLT (Descending h(Ai)):
+1. Использовать UIKit ядра -> h(Ai): 0,63
+2. Наследовать UIKit -> h(Ai): 0,63
+3. Писать отдельный UIKit проекта -> h(Ai): 0,37
+
+----------------------------------------------------------------
+
+resources path: cases/bltRatings.json
+
+Ranked Alternatives for Как писать UIKit на BLT (Descending h(Ai)):
+1. Использовать UIKit ядра -> h(Ai): 0,63
+2. Наследовать UIKit -> h(Ai): 0,63
+3. Писать отдельный UIKit проекта -> h(Ai): 0,37
+
+----------------------------------------------------------------
+
+resources path: cases/dbirdRatings.json
+
+Ranked Alternatives for От каких проектов наследовать проект DocsBird? (Descending h(Ai)):
+1. От BLT -> h(Ai): 0,75
+2. От Ediweb -> h(Ai): 0,58
+3. От ядра -> h(Ai): 0,56
+4. Не наследовать -> h(Ai): 0,29
+
+----------------------------------------------------------------
+
+resources path: cases/dbirdRatings.json
+
+Ranked Alternatives for От каких проектов наследовать проект DocsBird? (Descending h(Ai)):
+1. От BLT -> h(Ai): 0,75
+2. От Ediweb -> h(Ai): 0,58
+3. От ядра -> h(Ai): 0,56
+4. Не наследовать -> h(Ai): 0,29
+
+----------------------------------------------------------------
+
+resources path: cases/dbirdRatings.json
+
+Ranked Alternatives for От каких проектов наследовать проект DocsBird? (Descending h(Ai)):
+1. От BLT -> h(Ai): 0,75
+2. От Ediweb -> h(Ai): 0,58
+3. От ядра -> h(Ai): 0,56
+4. Не наследовать -> h(Ai): 0,29
+
+----------------------------------------------------------------
+
+resources path: cases/dbirdRatings.json
+
+Ranked Alternatives for От каких проектов наследовать проект DocsBird? (Descending h(Ai)):
+1. От BLT -> h(Ai): 0,75
+2. От Ediweb -> h(Ai): 0,58
+3. От ядра -> h(Ai): 0,56
+4. Не наследовать -> h(Ai): 0,29
+
+----------------------------------------------------------------
+
+resources path: cases/matchingRatings.json
+
+Ranked Alternatives for На каком этапе должен выполняться матчинг данных документа с каталогами поставщика в процессе его подготовки и отправки? (Descending h(Ai)):
+1. При создании черновика -> h(Ai): 0,52
+2. При отправке документа -> h(Ai): 0,50
+3. При каждом редактировании и сохранении черновика -> h(Ai): 0,45
+
+----------------------------------------------------------------
+
+resources path: cases/danonRatings.json
+
+Ranked Alternatives for Стоит ли выделять отдельную ветку danon от ветки ediweb (Descending h(Ai)):
+1. Вынесение danon в отдельную ветку -> h(Ai): 1,00
+2. Работа в ветке ediweb -> h(Ai): 0,00
+
+----------------------------------------------------------------
+
+resources path: cases/testingRatings.json
+
+Ranked Alternatives for Как упростить тестирование проектов (Descending h(Ai)):
+1. Добавление дата-атрибутов для компонентов UIKit -> h(Ai): 0,87
+2. Добавление классов для компонентов UIKit -> h(Ai): 0,75
+3. Добавление специальных меток (полных путей с иерархией) в коде (классы/атрибуты) на конкретных формах -> h(Ai): 0,20
+
+----------------------------------------------------------------
+
+resources path: cases/bltRatings.json
+
+Ranked Alternatives for Как писать UIKit на BLT (Descending h(Ai)):
+1. Использовать UIKit ядра -> h(Ai): 0,63
+2. Наследовать UIKit -> h(Ai): 0,63
+3. Писать отдельный UIKit проекта -> h(Ai): 0,37
+
+----------------------------------------------------------------
+
+resources path: cases/bltRatings.json
+
+Ranked Alternatives for Как писать UIKit на BLT (Descending h(Ai)):
+1. Наследовать UIKit -> h(Ai): 0,69
+2. Использовать UIKit ядра -> h(Ai): 0,63
+3. Писать отдельный UIKit проекта -> h(Ai): 0,37
+
+----------------------------------------------------------------
+
+resources path: cases/bltRatings.json
+
+Ranked Alternatives for Как писать UIKit на BLT (Descending h(Ai)):
+1. Наследовать UIKit -> h(Ai): 0,68
+2. Использовать UIKit ядра -> h(Ai): 0,62
+3. Писать отдельный UIKit проекта -> h(Ai): 0,38
+
+----------------------------------------------------------------
+
+resources path: cases/matchingRatings.json
+
+Ranked Alternatives for На каком этапе должен выполняться матчинг данных документа с каталогами поставщика в процессе его подготовки и отправки? (Descending h(Ai)):
+1. При создании черновика -> h(Ai): 0,52
+2. При отправке документа -> h(Ai): 0,50
+3. При каждом редактировании и сохранении черновика -> h(Ai): 0,45
+
+----------------------------------------------------------------
+
+resources path: ratings.json
+
+Ranked Alternatives for Problem 1 (Descending h(Ai)):
+1. Alternative 3 -> h(Ai): 0,77
+2. Alternative 1 -> h(Ai): 0,69
+3. Alternative 4 -> h(Ai): 0,66
+4. Alternative 2 -> h(Ai): 0,31
+
+Ranked Alternatives for Problem 2 (Descending h(Ai)):
+1. Alternative 1 -> h(Ai): 0,65
+2. Alternative 8 -> h(Ai): 0,55
+3. Alternative 9 -> h(Ai): 0,51
+4. Alternative 2 -> h(Ai): 0,49
+5. Alternative 5 -> h(Ai): 0,47
+6. Alternative 7 -> h(Ai): 0,46
+7. Alternative 6 -> h(Ai): 0,43
+8. Alternative 4 -> h(Ai): 0,42
+9. Alternative 3 -> h(Ai): 0,40
+
+Ranked Alternatives for Problem 3 (Descending h(Ai)):
+
+resources path: ratings.json
+
+Ranked Alternatives for Problem 1 (Descending h(Ai)):
+1. Alternative 3 -> h(Ai): 0,77
+2. Alternative 1 -> h(Ai): 0,69
+3. Alternative 4 -> h(Ai): 0,66
+4. Alternative 2 -> h(Ai): 0,31
+
+Ranked Alternatives for Problem 2 (Descending h(Ai)):
+1. Alternative 1 -> h(Ai): 0,65
+2. Alternative 8 -> h(Ai): 0,55
+3. Alternative 9 -> h(Ai): 0,51
+4. Alternative 2 -> h(Ai): 0,49
+5. Alternative 5 -> h(Ai): 0,47
+6. Alternative 7 -> h(Ai): 0,46
+7. Alternative 6 -> h(Ai): 0,43
+8. Alternative 4 -> h(Ai): 0,42
+9. Alternative 3 -> h(Ai): 0,40
+
+Ranked Alternatives for Problem 3 (Descending h(Ai)):
+
+----------------------------------------------------------------
+
+resources path: ratings.json
+
+Ranked Alternatives for Problem 1 (Descending h(Ai)):
+1. Alternative 3 -> h(Ai): 0,77
+2. Alternative 1 -> h(Ai): 0,69
+3. Alternative 4 -> h(Ai): 0,66
+4. Alternative 2 -> h(Ai): 0,31
+
+Ranked Alternatives for Problem 2 (Descending h(Ai)):
+1. Alternative 1 -> h(Ai): 0,65
+2. Alternative 8 -> h(Ai): 0,55
+3. Alternative 9 -> h(Ai): 0,51
+4. Alternative 2 -> h(Ai): 0,49
+5. Alternative 5 -> h(Ai): 0,47
+6. Alternative 7 -> h(Ai): 0,46
+7. Alternative 6 -> h(Ai): 0,43
+8. Alternative 4 -> h(Ai): 0,42
+9. Alternative 3 -> h(Ai): 0,40
+
+Ranked Alternatives for Problem 3 (Descending h(Ai)):
+
+----------------------------------------------------------------
+
+resources path: ratings.json
+
+Ranked Alternatives for Problem 1 (Descending h(Ai)):
+1. Alternative 3 -> h(Ai): 0,77
+2. Alternative 1 -> h(Ai): 0,69
+3. Alternative 4 -> h(Ai): 0,57
+4. Alternative 2 -> h(Ai): 0,31
+
+Ranked Alternatives for Problem 2 (Descending h(Ai)):
+1. Alternative 1 -> h(Ai): 0,67
+2. Alternative 8 -> h(Ai): 0,56
+3. Alternative 9 -> h(Ai): 0,52
+4. Alternative 2 -> h(Ai): 0,51
+5. Alternative 5 -> h(Ai): 0,49
+6. Alternative 7 -> h(Ai): 0,48
+7. Alternative 6 -> h(Ai): 0,46
+8. Alternative 3 -> h(Ai): 0,42
+9. Alternative 4 -> h(Ai): 0,33
+
+Ranked Alternatives for Problem 3 (Descending h(Ai)):
+
+----------------------------------------------------------------
+
+resources path: ratings.json
+
+Ranked Alternatives for Problem 1 (Descending h(Ai)):
+1. Alternative 3 -> h(Ai): 0,77
+2. Alternative 1 -> h(Ai): 0,69
+3. Alternative 4 -> h(Ai): 0,66
+4. Alternative 2 -> h(Ai): 0,31
+
+Ranked Alternatives for Problem 2 (Descending h(Ai)):
+1. Alternative 1 -> h(Ai): 0,65
+2. Alternative 8 -> h(Ai): 0,55
+3. Alternative 9 -> h(Ai): 0,51
+4. Alternative 2 -> h(Ai): 0,49
+5. Alternative 5 -> h(Ai): 0,47
+6. Alternative 7 -> h(Ai): 0,46
+7. Alternative 6 -> h(Ai): 0,43
+8. Alternative 4 -> h(Ai): 0,42
+9. Alternative 3 -> h(Ai): 0,40
+
+Ranked Alternatives for Problem 3 (Descending h(Ai)):
+
+----------------------------------------------------------------
+
+resources path: cases/matchingRatings.json
+
+Ranked Alternatives for На каком этапе должен выполняться матчинг данных документа с каталогами поставщика в процессе его подготовки и отправки? (Descending h(Ai)):
+1. При создании черновика -> h(Ai): 0,52
+2. При отправке документа -> h(Ai): 0,50
+3. При каждом редактировании и сохранении черновика -> h(Ai): 0,45
+
+----------------------------------------------------------------
+
+resources path: cases/dbirdRatings.json
+
+Ranked Alternatives for От каких проектов наследовать проект DocsBird? (Descending h(Ai)):
+1. От BLT -> h(Ai): 0,75
+2. От Ediweb -> h(Ai): 0,58
+3. От ядра -> h(Ai): 0,56
+4. Не наследовать -> h(Ai): 0,29
+
+----------------------------------------------------------------
+
+resources path: cases/bltRatings.json
+
+Ranked Alternatives for Как писать UIKit на BLT (Descending h(Ai)):
+1. Наследовать UIKit -> h(Ai): 0,68
+2. Использовать UIKit ядра -> h(Ai): 0,62
+3. Писать отдельный UIKit проекта -> h(Ai): 0,38
+
+----------------------------------------------------------------
+
+resources path: cases/bltRatings.json
+
+Ranked Alternatives for На каком этапе должен выполняться матчинг данных документа с каталогами поставщика в процессе его подготовки и отправки? (Descending h(Ai)):
+
+resources path: cases/matchingRatings.json
+
+Ranked Alternatives for На каком этапе должен выполняться матчинг данных документа с каталогами поставщика в процессе его подготовки и отправки? (Descending h(Ai)):
+1. При создании черновика -> h(Ai): 0,52
+2. При отправке документа -> h(Ai): 0,50
+3. При каждом редактировании и сохранении черновика -> h(Ai): 0,45
+
+----------------------------------------------------------------
+
+resources path: cases/matchingRatings.json
+
+Ranked Alternatives for На каком этапе должен выполняться матчинг данных документа с каталогами поставщика в процессе его подготовки и отправки? (Descending h(Ai)):
+1. При создании черновика -> h(Ai): 0,52
+2. При отправке документа -> h(Ai): 0,50
+3. При каждом редактировании и сохранении черновика -> h(Ai): 0,45
+
+----------------------------------------------------------------
+
+resources path: cases/matchingRatings.json
+
+Ranked Alternatives for На каком этапе должен выполняться матчинг данных документа с каталогами поставщика в процессе его подготовки и отправки? (Descending h(Ai)):
+1. При создании черновика -> h(Ai): 0,52
+2. При отправке документа -> h(Ai): 0,50
+3. При каждом редактировании и сохранении черновика -> h(Ai): 0,45
+
+----------------------------------------------------------------
+
+resources path: cases/dbirdRatings.json
+
+Ranked Alternatives for От каких проектов наследовать проект DocsBird? (Descending h(Ai)):
+1. От BLT -> h(Ai): 0,75
+2. От Ediweb -> h(Ai): 0,58
+3. От ядра -> h(Ai): 0,56
+4. Не наследовать -> h(Ai): 0,29
+
+----------------------------------------------------------------
+
+resources path: cases/matchingRatings.json
+
+Ranked Alternatives for На каком этапе должен выполняться матчинг данных документа с каталогами поставщика в процессе его подготовки и отправки? (Descending h(Ai)):
+1. При создании черновика -> h(Ai): 0,52
+2. При отправке документа -> h(Ai): 0,50
+3. При каждом редактировании и сохранении черновика -> h(Ai): 0,45
+
+----------------------------------------------------------------
+
+resources path: cases/danonRatings.json
+
+Ranked Alternatives for Стоит ли выделять отдельную ветку danon от ветки ediweb (Descending h(Ai)):
+1. Вынесение danon в отдельную ветку -> h(Ai): 1,00
+2. Работа в ветке ediweb -> h(Ai): 0,00
+
+----------------------------------------------------------------
+
+resources path: cases/testingRatings.json
+
+Ranked Alternatives for Как упростить тестирование проектов (Descending h(Ai)):
+1. Добавление дата-атрибутов для компонентов UIKit -> h(Ai): 0,87
+2. Добавление классов для компонентов UIKit -> h(Ai): 0,75
+3. Добавление специальных меток (полных путей с иерархией) в коде (классы/атрибуты) на конкретных формах -> h(Ai): 0,20
+
+----------------------------------------------------------------
+
+resources path: cases/bltRatings.json
+
+Ranked Alternatives for Как писать UIKit на BLT (Descending h(Ai)):
+1. Наследовать UIKit -> h(Ai): 0,68
+2. Использовать UIKit ядра -> h(Ai): 0,62
+3. Писать отдельный UIKit проекта -> h(Ai): 0,38
+
+----------------------------------------------------------------
+
+resources path: cases/bltRatings.json
+
+Ranked Alternatives for Как писать UIKit на BLT (Descending h(Ai)):
+1. Наследовать UIKit -> h(Ai): 0,68
+2. Использовать UIKit ядра -> h(Ai): 0,62
+3. Писать отдельный UIKit проекта -> h(Ai): 0,38
+
+----------------------------------------------------------------
+
+resources path: testRatings.json
+
+Ranked Alternatives for Выбор стека (Descending h(Ai)):
+1. Vue -> h(Ai): 0,97
+2. Angular -> h(Ai): 0,38
+3. React -> h(Ai): 0,14
+
+----------------------------------------------------------------
+

@@ -1,4 +1,4 @@
-package topsis;
+package methods;
 
 import models.NormalizedRating;
 import models.Problem;

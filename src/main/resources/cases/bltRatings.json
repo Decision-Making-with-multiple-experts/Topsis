@@ -1,0 +1,268 @@
+{
+  "ratings": [
+    {
+      "problemName": "Как писать UIKit на BLT",
+      "alternativeName": "Писать отдельный UIKit проекта",
+      "expertId": 1,
+      "alternativeRatings": [
+        "ОВ",
+        "В",
+        "Н",
+        "В"
+      ]
+    },
+    {
+      "problemName": "Как писать UIKit на BLT",
+      "alternativeName": "Использовать UIKit ядра",
+      "expertId": 1,
+      "alternativeRatings": [
+        "Н",
+        "Н",
+        "ОН",
+        "Н"
+      ]
+    },
+    {
+      "problemName": "Как писать UIKit на BLT",
+      "alternativeName": "Наследовать UIKit",
+      "expertId": 1,
+      "alternativeRatings": [
+        "В",
+        "ОВ",
+        "В",
+        "Н"
+      ]
+    },
+    {
+      "problemName": "Как писать UIKit на BLT",
+      "alternativeName": "Писать отдельный UIKit проекта",
+      "expertId": 2,
+      "alternativeRatings": [
+        "ОВ",
+        "ОВ",
+        "ОВ",
+        "ОВ"
+      ]
+    },
+    {
+      "problemName": "Как писать UIKit на BLT",
+      "alternativeName": "Использовать UIKit ядра",
+      "expertId": 2,
+      "alternativeRatings": [
+        "ОН",
+        "ОН",
+        "Н",
+        "Н"
+      ]
+    },
+    {
+      "problemName": "Как писать UIKit на BLT",
+      "alternativeName": "Наследовать UIKit",
+      "expertId": 2,
+      "alternativeRatings": [
+        "ОВ",
+        "С",
+        "С",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Как писать UIKit на BLT",
+      "alternativeName": "Писать отдельный UIKit проекта",
+      "expertId": 3,
+      "alternativeRatings": [
+        "ОВ",
+        "В",
+        "В",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Как писать UIKit на BLT",
+      "alternativeName": "Использовать UIKit ядра",
+      "expertId": 3,
+      "alternativeRatings": [
+        "Н",
+        "В",
+        "В",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Как писать UIKit на BLT",
+      "alternativeName": "Наследовать UIKit",
+      "expertId": 3,
+      "alternativeRatings": [
+        "С",
+        "В",
+        "В",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Как писать UIKit на BLT",
+      "alternativeName": "Писать отдельный UIKit проекта",
+      "expertId": 4,
+      "alternativeRatings": [
+        "ОВ",
+        "ОВ",
+        "В",
+        "ОВ"
+      ]
+    },
+    {
+      "problemName": "Как писать UIKit на BLT",
+      "alternativeName": "Использовать UIKit ядра",
+      "expertId": 4,
+      "alternativeRatings": [
+        "С",
+        "С",
+        "С",
+        "Н"
+      ]
+    },
+    {
+      "problemName": "Как писать UIKit на BLT",
+      "alternativeName": "Наследовать UIKit",
+      "expertId": 4,
+      "alternativeRatings": [
+        "В",
+        "Н",
+        "Н",
+        "Н"
+      ]
+    },
+    {
+      "problemName": "Как писать UIKit на BLT",
+      "alternativeName": "Писать отдельный UIKit проекта",
+      "expertId": 5,
+      "alternativeRatings": [
+        "С",
+        "ОВ",
+        "В",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Как писать UIKit на BLT",
+      "alternativeName": "Использовать UIKit ядра",
+      "expertId": 5,
+      "alternativeRatings": [
+        "В",
+        "В",
+        "Н",
+        "Н"
+      ]
+    },
+    {
+      "problemName": "Как писать UIKit на BLT",
+      "alternativeName": "Наследовать UIKit",
+      "expertId": 5,
+      "alternativeRatings": [
+        "В",
+        "С",
+        "Н",
+        "Н"
+      ]
+    },
+    {
+      "problemName": "Как писать UIKit на BLT",
+      "alternativeName": "Писать отдельный UIKit проекта",
+      "expertId": 6,
+      "alternativeRatings": [
+        "ОВ",
+        "ОВ",
+        "ОВ",
+        "ОВ"
+      ]
+    },
+    {
+      "problemName": "Как писать UIKit на BLT",
+      "alternativeName": "Использовать UIKit ядра",
+      "expertId": 6,
+      "alternativeRatings": [
+        "ОН",
+        "ОН",
+        "Н",
+        "ОН"
+      ]
+    },
+    {
+      "problemName": "Как писать UIKit на BLT",
+      "alternativeName": "Наследовать UIKit",
+      "expertId": 6,
+      "alternativeRatings": [
+        "В",
+        "С",
+        "С",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Как писать UIKit на BLT",
+      "alternativeName": "Писать отдельный UIKit проекта",
+      "expertId": 7,
+      "alternativeRatings": [
+        "ОВ",
+        "ОВ",
+        "ОВ",
+        "ОВ"
+      ]
+    },
+    {
+      "problemName": "Как писать UIKit на BLT",
+      "alternativeName": "Использовать UIKit ядра",
+      "expertId": 7,
+      "alternativeRatings": [
+        "ОН",
+        "Н",
+        "Н",
+        "ОН"
+      ]
+    },
+    {
+      "problemName": "Как писать UIKit на BLT",
+      "alternativeName": "Наследовать UIKit",
+      "expertId": 7,
+      "alternativeRatings": [
+        "С",
+        "С",
+        "С",
+        "ОН"
+      ]
+    },
+    {
+      "problemName": "Как писать UIKit на BLT",
+      "alternativeName": "Писать отдельный UIKit проекта",
+      "expertId": 8,
+      "alternativeRatings": [
+        "ОВ",
+        "ОВ",
+        "ОВ",
+        "В"
+      ]
+    },
+    {
+      "problemName": "Как писать UIKit на BLT",
+      "alternativeName": "Использовать UIKit ядра",
+      "expertId": 8,
+      "alternativeRatings": [
+        "ОН",
+        "ОН",
+        "Н",
+        "ОН"
+      ]
+    },
+    {
+      "problemName": "Как писать UIKit на BLT",
+      "alternativeName": "Наследовать UIKit",
+      "expertId": 8,
+      "alternativeRatings": [
+        "В",
+        "С",
+        "С",
+        "Н"
+      ]
+    }
+  ]
+}

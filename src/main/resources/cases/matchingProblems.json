@@ -1,0 +1,44 @@
+{
+  "problems": [
+    {
+      "problemName": "На каком этапе должен выполняться матчинг данных документа с каталогами поставщика в процессе его подготовки и отправки?",
+      "criteria": [
+        {
+          "criterionName": "Степень покрытия бизнес-потребностей (насколько хорошо выбранный вариант решает бизнес-задачу)",
+          "criterionScale": "base",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Нагрузка на платформу (количество вычислений/операций, которые вызовет данный подход)",
+          "criterionScale": "base",
+          "optimizationDirection": "min"
+        },
+        {
+          "criterionName": "Прозрачность для пользователя (Может ли пользователь до отправки увидеть, что и как подтянулось )",
+          "criterionScale": "short",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Сложность реализации (насколько сильно придется переделывать текущую реализацию разработчикам)",
+          "criterionScale": "base",
+          "optimizationDirection": "min"
+        },
+        {
+          "criterionName": "Окупаемость решения (скольким клиентам нужен этот функционал)",
+          "criterionScale": "base",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Сроки вывода в продакшн",
+          "criterionScale": "short",
+          "optimizationDirection": "min"
+        },
+        {
+          "criterionName": "Риск потери данных/неконсистентности при работе с документами использующими каталоги",
+          "criterionScale": "short",
+          "optimizationDirection": "min"
+        }
+      ]
+    }
+  ]
+}

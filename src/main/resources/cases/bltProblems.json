@@ -1,0 +1,29 @@
+{
+  "problems": [
+    {
+      "problemName": "Как писать UIKit на BLT",
+      "criteria": [
+        {
+          "criterionName": "Соответствие требованиям заказчика",
+          "criterionScale": "base",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Время на реализацию",
+          "criterionScale": "base",
+          "optimizationDirection": "min"
+        },
+        {
+          "criterionName": "Стоимость поддержки (тестирование и верификация)",
+          "criterionScale": "base",
+          "optimizationDirection": "min"
+        },
+        {
+          "criterionName": "Стоимость реализации новых фич, появляющихся в основном UIKit",
+          "criterionScale": "base",
+          "optimizationDirection": "min"
+        }
+      ]
+    }
+  ]
+}

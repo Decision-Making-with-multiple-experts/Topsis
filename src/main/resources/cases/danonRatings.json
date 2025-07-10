@@ -1,0 +1,180 @@
+{
+  "ratings": [
+    {
+      "problemName": "Стоит ли выделять отдельную ветку danon от ветки ediweb",
+      "alternativeName": "Вынесение danon в отдельную ветку",
+      "expertId": 1,
+      "alternativeRatings": [
+        "Н",
+        "Н",
+        "В",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Стоит ли выделять отдельную ветку danon от ветки ediweb",
+      "alternativeName": "Работа в ветке ediweb",
+      "expertId": 1,
+      "alternativeRatings": [
+        "Н",
+        "Н",
+        "С",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Стоит ли выделять отдельную ветку danon от ветки ediweb",
+      "alternativeName": "Вынесение danon в отдельную ветку",
+      "expertId": 2,
+      "alternativeRatings": [
+        "ОН",
+        "ОН",
+        "В",
+        "Н"
+      ]
+    },
+    {
+      "problemName": "Стоит ли выделять отдельную ветку danon от ветки ediweb",
+      "alternativeName": "Работа в ветке ediweb",
+      "expertId": 2,
+      "alternativeRatings": [
+        "С",
+        "ОВ",
+        "Н",
+        "В"
+      ]
+    },
+    {
+      "problemName": "Стоит ли выделять отдельную ветку danon от ветки ediweb",
+      "alternativeName": "Вынесение danon в отдельную ветку",
+      "expertId": 3,
+      "alternativeRatings": [
+        "В",
+        "С",
+        "Н",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Стоит ли выделять отдельную ветку danon от ветки ediweb",
+      "alternativeName": "Работа в ветке ediweb",
+      "expertId": 3,
+      "alternativeRatings": [
+        "С",
+        "С",
+        "Н",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Стоит ли выделять отдельную ветку danon от ветки ediweb",
+      "alternativeName": "Вынесение danon в отдельную ветку",
+      "expertId": 4,
+      "alternativeRatings": [
+        "В",
+        "Н",
+        "С",
+        "Н"
+      ]
+    },
+    {
+      "problemName": "Стоит ли выделять отдельную ветку danon от ветки ediweb",
+      "alternativeName": "Работа в ветке ediweb",
+      "expertId": 4,
+      "alternativeRatings": [
+        "В",
+        "Н",
+        "С",
+        "Н"
+      ]
+    },
+    {
+      "problemName": "Стоит ли выделять отдельную ветку danon от ветки ediweb",
+      "alternativeName": "Вынесение danon в отдельную ветку",
+      "expertId": 5,
+      "alternativeRatings": [
+        "С",
+        "В",
+        "Н",
+        "В"
+      ]
+    },
+    {
+      "problemName": "Стоит ли выделять отдельную ветку danon от ветки ediweb",
+      "alternativeName": "Работа в ветке ediweb",
+      "expertId": 5,
+      "alternativeRatings": [
+        "Н",
+        "В",
+        "Н",
+        "В"
+      ]
+    },
+    {
+      "problemName": "Стоит ли выделять отдельную ветку danon от ветки ediweb",
+      "alternativeName": "Вынесение danon в отдельную ветку",
+      "expertId": 6,
+      "alternativeRatings": [
+        "Н",
+        "В",
+        "Н",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Стоит ли выделять отдельную ветку danon от ветки ediweb",
+      "alternativeName": "Работа в ветке ediweb",
+      "expertId": 6,
+      "alternativeRatings": [
+        "С",
+        "В",
+        "С",
+        "В"
+      ]
+    },
+    {
+      "problemName": "Стоит ли выделять отдельную ветку danon от ветки ediweb",
+      "alternativeName": "Вынесение danon в отдельную ветку",
+      "expertId": 7,
+      "alternativeRatings": [
+        "ОН",
+        "ОН",
+        "В",
+        "Н"
+      ]
+    },
+    {
+      "problemName": "Стоит ли выделять отдельную ветку danon от ветки ediweb",
+      "alternativeName": "Работа в ветке ediweb",
+      "expertId": 7,
+      "alternativeRatings": [
+        "ОН",
+        "ОВ",
+        "В",
+        "В"
+      ]
+    },
+    {
+      "problemName": "Стоит ли выделять отдельную ветку danon от ветки ediweb",
+      "alternativeName": "Вынесение danon в отдельную ветку",
+      "expertId": 8,
+      "alternativeRatings": [
+        "В",
+        "ОН",
+        "С",
+        "С"
+      ]
+    },
+    {
+      "problemName": "Стоит ли выделять отдельную ветку danon от ветки ediweb",
+      "alternativeName": "Работа в ветке ediweb",
+      "expertId": 8,
+      "alternativeRatings": [
+        "ОВ",
+        "ОВ",
+        "В",
+        "В"
+      ]
+    }
+  ]
+}

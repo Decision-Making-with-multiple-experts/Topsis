@@ -1,5 +1,6 @@
 package topsis;
 
+import methods.Topsis;
 import models.*;
 import org.junit.jupiter.api.Test;
 import java.util.*;

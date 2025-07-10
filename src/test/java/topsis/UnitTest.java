@@ -2,6 +2,7 @@ package topsis;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import methods.Topsis;
 import models.Criterion;
 import models.NormalizedRating;
 import models.Problem;

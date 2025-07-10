@@ -1,0 +1,44 @@
+{
+  "problems": [
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "criteria": [
+        {
+          "criterionName": "Сложность обновления (будет ли много конфликтов, костылей, оверрайдов и т. п.)",
+          "criterionScale": "numeric",
+          "optimizationDirection": "min"
+        },
+        {
+          "criterionName": "Затраты на первичный перенос (объём и сложность работ по первичному переносу и адаптации архитектуры, дизайна, зависимостей)",
+          "criterionScale": "numeric",
+          "optimizationDirection": "min"
+        },
+        {
+          "criterionName": "Степень переопределения бизнес-логики (объём функционала, который придётся переписывать из-за различий в бизнес-логике)",
+          "criterionScale": "numeric",
+          "optimizationDirection": "min"
+        },
+        {
+          "criterionName": "Удобство поддержки фич (насколько легко и быстро можно будет переносить новые фичи из родительского проекта без конфликта с текущей логикой)",
+          "criterionScale": "numeric",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Степень переиспользования кода (оценка объёма кода, который может быть использован без изменений)",
+          "criterionScale": "numeric",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Скорость выхода MVP",
+          "criterionScale": "numeric",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Стабильность родительского проекта  (насколько активно развивается проект, часто ли в нём происходят фундаментальные изменения, багфиксы, рефакторинг, способный повлиять на унаследованный проект)",
+          "criterionScale": "numeric",
+          "optimizationDirection": "max"
+        }
+      ]
+    }
+  ]
+}

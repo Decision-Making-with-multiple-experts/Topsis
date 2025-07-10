@@ -1,0 +1,452 @@
+{
+  "ratings": [
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "От ядра",
+      "expertId": 1,
+      "alternativeRatings": [
+        "6",
+        "2",
+        "9",
+        "5",
+        "4",
+        "3",
+        "10"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "От Ediweb",
+      "expertId": 1,
+      "alternativeRatings": [
+        "2",
+        "7",
+        "9",
+        "4",
+        "4",
+        "4",
+        "3"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "От BLT",
+      "expertId": 1,
+      "alternativeRatings": [
+        "8",
+        "7",
+        "7",
+        "4",
+        "3",
+        "3",
+        "9"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "Не наследовать",
+      "expertId": 1,
+      "alternativeRatings": [
+        "7",
+        "10",
+        "1",
+        "10",
+        "10",
+        "6",
+        "10"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "От ядра",
+      "expertId": 2,
+      "alternativeRatings": [
+        "6",
+        "9",
+        "7",
+        "4",
+        "9",
+        "5",
+        "7"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "От Ediweb",
+      "expertId": 2,
+      "alternativeRatings": [
+        "9",
+        "7",
+        "8",
+        "4",
+        "5",
+        "5",
+        "4"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "От BLT",
+      "expertId": 2,
+      "alternativeRatings": [
+        "7",
+        "7",
+        "5",
+        "5",
+        "5",
+        "5",
+        "4"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "Не наследовать",
+      "expertId": 2,
+      "alternativeRatings": [
+        "2",
+        "10",
+        "2",
+        "9",
+        "1",
+        "1",
+        "1"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "От ядра",
+      "expertId": 3,
+      "alternativeRatings": [
+        "2",
+        "3",
+        "5",
+        "6",
+        "5",
+        "8",
+        "4"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "От Ediweb",
+      "expertId": 3,
+      "alternativeRatings": [
+        "3",
+        "4",
+        "6",
+        "3",
+        "4",
+        "8",
+        "3"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "От BLT",
+      "expertId": 3,
+      "alternativeRatings": [
+        "2",
+        "2",
+        "4",
+        "5",
+        "4",
+        "8",
+        "2"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "Не наследовать",
+      "expertId": 3,
+      "alternativeRatings": [
+        "9",
+        "10",
+        "10",
+        "1",
+        "2",
+        "9",
+        "10"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "От ядра",
+      "expertId": 4,
+      "alternativeRatings": [
+        "7",
+        "6",
+        "8",
+        "3",
+        "8",
+        "8",
+        "4"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "От Ediweb",
+      "expertId": 4,
+      "alternativeRatings": [
+        "7",
+        "6",
+        "8",
+        "3",
+        "8",
+        "8",
+        "4"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "От BLT",
+      "expertId": 4,
+      "alternativeRatings": [
+        "7",
+        "6",
+        "7",
+        "3",
+        "8",
+        "7",
+        "4"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "Не наследовать",
+      "expertId": 4,
+      "alternativeRatings": [
+        "9",
+        "9",
+        "9",
+        "2",
+        "3",
+        "2",
+        "5"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "От ядра",
+      "expertId": 5,
+      "alternativeRatings": [
+        "7",
+        "7",
+        "8",
+        "4",
+        "5",
+        "3",
+        "6"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "От Ediweb",
+      "expertId": 5,
+      "alternativeRatings": [
+        "5",
+        "8",
+        "6",
+        "6",
+        "8",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "От BLT",
+      "expertId": 5,
+      "alternativeRatings": [
+        "8",
+        "8",
+        "6",
+        "6",
+        "6",
+        "4",
+        "1"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "Не наследовать",
+      "expertId": 5,
+      "alternativeRatings": [
+        "2",
+        "10",
+        "2",
+        "2",
+        "2",
+        "1",
+        "1"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "От ядра",
+      "expertId": 6,
+      "alternativeRatings": [
+        "3",
+        "7",
+        "7",
+        "6",
+        "5",
+        "1",
+        "3"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "От Ediweb",
+      "expertId": 6,
+      "alternativeRatings": [
+        "6",
+        "6",
+        "5",
+        "6",
+        "7",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "От BLT",
+      "expertId": 6,
+      "alternativeRatings": [
+        "8",
+        "3",
+        "4",
+        "7",
+        "7",
+        "7",
+        "7"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "Не наследовать",
+      "expertId": 6,
+      "alternativeRatings": [
+        "10",
+        "10",
+        "3",
+        "3",
+        "3",
+        "1",
+        "10"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "От ядра",
+      "expertId": 7,
+      "alternativeRatings": [
+        "7",
+        "4",
+        "8",
+        "7",
+        "4",
+        "3",
+        "9"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "От Ediweb",
+      "expertId": 7,
+      "alternativeRatings": [
+        "7",
+        "7",
+        "8",
+        "4",
+        "3",
+        "7",
+        "7"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "От BLT",
+      "expertId": 7,
+      "alternativeRatings": [
+        "4",
+        "2",
+        "4",
+        "7",
+        "8",
+        "9",
+        "5"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "Не наследовать",
+      "expertId": 7,
+      "alternativeRatings": [
+        "1",
+        "2",
+        "10",
+        "5",
+        "1",
+        "10",
+        "1"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "От ядра",
+      "expertId": 8,
+      "alternativeRatings": [
+        "10",
+        "8",
+        "8",
+        "3",
+        "7",
+        "3",
+        "3"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "От Ediweb",
+      "expertId": 8,
+      "alternativeRatings": [
+        "8",
+        "5",
+        "8",
+        "3",
+        "7",
+        "6",
+        "9"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "От BLT",
+      "expertId": 8,
+      "alternativeRatings": [
+        "8",
+        "5",
+        "3",
+        "9",
+        "8",
+        "8",
+        "2"
+      ]
+    },
+    {
+      "problemName": "От каких проектов наследовать проект DocsBird?",
+      "alternativeName": "Не наследовать",
+      "expertId": 8,
+      "alternativeRatings": [
+        "1",
+        "10",
+        "10",
+        "1",
+        "1",
+        "1",
+        "10"
+      ]
+    }
+  ]
+}

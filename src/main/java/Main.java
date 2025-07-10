@@ -1,6 +1,8 @@
+import methods.GroupPreference;
+import methods.Rampa;
 import models.Problem;
 import models.Rating;
-import topsis.Topsis;
+import methods.Topsis;
 import utils.DataGenerator;
 import utils.JSONReader;
 import utils.OutputWriter;
@@ -15,7 +17,7 @@ public class Main {
         long startTime = System.nanoTime();
         System.setOut(new PrintStream(System.out, true, StandardCharsets.UTF_8));
 
-        boolean generateData = true;
+        boolean generateData = false;
         boolean showLoadedResources = false;
 
         List<Problem> problems;
@@ -28,8 +30,8 @@ public class Main {
             problems = JSONReader.readProblems(latestDirectory + "/generatedProblems.json");
             ratings = JSONReader.readRatings(latestDirectory + "/generatedRatings.json");
         } else {
-            String problemPath = "problems.json";
-            String ratingPath = "ratings.json";
+            String problemPath = "testProblems.json";
+            String ratingPath = "testRatings.json";
             OutputWriter.writeResourcePath(ratingPath);
             problems = JSONReader.readProblems(problemPath);
             ratings = JSONReader.readRatings(ratingPath);
@@ -52,6 +54,16 @@ public class Main {
         // Выполнение алгоритма TOPSIS для каждой проблемы
         for (Problem problem : problems) {
             OutputWriter.writeResults(Topsis.run(problem, ratings), problem);
+        }
+
+        // Выполнение алгоритма GroupPreference для каждой проблемы
+        for (Problem problem : problems) {
+            GroupPreference.run(problem, ratings);
+        }
+
+        // Выполнение алгоритма РАМПА для каждой проблемы
+        for (Problem problem : problems) {
+            Rampa.run(problem, ratings);
         }
         OutputWriter.writeEnd();
 

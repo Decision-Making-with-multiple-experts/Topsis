@@ -1,0 +1,29 @@
+{
+  "problems": [
+    {
+      "problemName": "Стоит ли выделять отдельную ветку danon от ветки ediweb",
+      "criteria": [
+        {
+          "criterionName": "Трудозатраты",
+          "criterionScale": "base",
+          "optimizationDirection": "min"
+        },
+        {
+          "criterionName": "Усложнение логики проекта",
+          "criterionScale": "base",
+          "optimizationDirection": "min"
+        },
+        {
+          "criterionName": "Возможность выделить отдельную команду под этот проект",
+          "criterionScale": "short",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Наличие привязки к релизам проекта",
+          "criterionScale": "short",
+          "optimizationDirection": "min"
+        }
+      ]
+    }
+  ]
+}

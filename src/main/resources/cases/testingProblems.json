@@ -1,0 +1,39 @@
+{
+  "problems": [
+    {
+      "problemName": "Как упростить тестирование проектов",
+      "criteria": [
+        {
+          "criterionName": "Стоимость разработки",
+          "criterionScale": "short",
+          "optimizationDirection": "min"
+        },
+        {
+          "criterionName": "Надежность решения (защита от случайных ошибок разработчиков)",
+          "criterionScale": "base",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Стоимость сопровождения разработкой",
+          "criterionScale": "base",
+          "optimizationDirection": "min"
+        },
+        {
+          "criterionName": "Стоимость внедрения в автотесты",
+          "criterionScale": "base",
+          "optimizationDirection": "min"
+        },
+        {
+          "criterionName": "Удобство использования тестировщиками (надежность, гибкость, устойчивость к незначительным изменениям UI)",
+          "criterionScale": "base",
+          "optimizationDirection": "max"
+        },
+        {
+          "criterionName": "Стоимость сопровождения тестировщиками",
+          "criterionScale": "base",
+          "optimizationDirection": "min"
+        }
+      ]
+    }
+  ]
+}
